@@ -1,0 +1,14 @@
+[
+	{"id" : 1, "name" : "ice", "ratio":0.5, "delayTime" : 0.0, "totalTime" : 4.0, "interval" : 3.0, "upgrade":{"ratio" : 0.05, "interval" : -0.1, "totalTime" : 0.1}},
+	{"id" : 2, "name" : "ice", "ratio":1.0, "delayTime" : 0.0, "totalTime" : 0.0, "interval" : 0.0, "upgrade":{"ratio" : 0.0, "interval" : -0.1, "totalTime" : 0.1}},
+	{"id" : 3, "name" : "hurt", "life" : 5, "delayTime" : 0.0, "totalTime" : 2.0, "interval" : 0.5, "upgrade":{"life" : 2, "interval" : -0.1, "totalTime" : 0.1}},
+	{"id" : 4, "name" : "hurt", "life" : 10, "delayTime" : 0.0, "totalTime" : 1.0, "interval" : 0.3, "upgrade":{"life" : 2, "interval" : -0.1, "totalTime" : 0.1}},
+	{"id" : 5, "name" : "force", "strength" : 10,  "range":50, "delayTime" : 0.0, "totalTime" : 0.0, "interval" : 0.0, "upgrade":{}},
+	{"id" : 6, "name" : "aim", "type":"player", "way":"", "delayTime" : 0.0, "totalTime" : 100.0, "interval" : 0.033, "upgrade":{"rotate" : 1, "interval" : -0.1, "totalTime" : 0.1}},
+	{"id" : 7, "name" : "aim", "type":"enemy", "way":"nearest", "delayTime" : 0.0, "totalTime" : 100.0, "interval" : 0.033, "upgrade":{"rotate" : 1, "interval" : -0.1, "totalTime" : 0.1}},
+	{"id" : 8, "name" : "ice", "ratio":0.6, "delayTime" : 0.0, "totalTime" : 0.0, "interval" : 0.0, "upgrade":{"ratio" : 0.0, "interval" : -0.1, "totalTime" : 0.1}},
+	{"id" : 9, "name" : "ice", "ratio":1.0, "delayTime" : 0.0, "totalTime" : 0.5, "interval" : 0.0, "upgrade":{"ratio" : 0.0, "interval" : 0.0, "totalTime" : 0.1}},
+	{"id" : 10, "name" : "angular", "rotate":0, "delayTime" : 0.0, "totalTime" : 0.5, "interval" : 0.0, "upgrade":{"ratio" : 0.0, "interval" : 0.0, "totalTime" : 0.1}},
+	{"id" : 11, "name" : "hurt", "life" : 2, "delayTime" : 0.0, "totalTime" : 0, "interval" : 0, "upgrade":{"life" : 1, "interval" : 0, "totalTime" : 0}},
+	{"id" : 12, "name" : "force", "strength" : 10,  "range":50, "delayTime" : 0.0, "totalTime" : 0.1, "interval" : 0.033, "upgrade":{}}
+]

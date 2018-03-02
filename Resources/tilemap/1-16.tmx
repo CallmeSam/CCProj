@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="50" height="20" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" source="caodi.tsx"/>
+ <tileset firstgid="49" source="gold.tsx"/>
+ <tileset firstgid="52" source="map1.tsx"/>
+ <tileset firstgid="1014" source="zhangai3.tsx"/>
+ <tileset firstgid="1278" source="zhongdian.tsx"/>
+ <layer name="root_2" width="50" height="20">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+3NOQ6DQBBEURIWAwlgAwk7Cd7g/qfjjzRHmJFAqi+9pIPqIFBKKaWUukYhIsRIbrBreiBFhtzeCpSo8HT4y9eu6YUaDVp769BjwOjwl69d04QZC1Z72/DGB1+Hv3ztmn74Y8fheFspdd1OFUYN56APAAA=
+  </data>
+ </layer>
+ <layer name="root_1" width="50" height="20">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+3PVXCVBxAG0D+h7sUhgeDulgRNILi7JQESEgjuLhGspFAXqBeoQkvdXbAatEAF6t4CVWip0HPfbu8DM7wyd2fOzL58O98GQXSiE53oRCc60Tkdp0xsEJSlHOWpQEXiiKcSlUmgClWpRnVqUJNa1KYOdalHfRrQkEY0pglNaUZzWtCSViSSRHLsqfXPIpvWcm1oSzva04EUUulIJ9LoTBe60o3u9KAnvehNH/rSj/4MYCCDGMwQhjKM4YxgJOlkkHmKf6xkFaPkRjOGLLIZSw65jGM8eUxgIpOYzBSmMo3pzGAms5jNHOYyj/ksYCGLWMwSlpJPAYUUsVqv4pN038BGNrGZLSyTW84KVrKKy0K3KOZy1rCWK7iSq7iaa7iW67ieG7iRdaznJm7mFm7lNm7nDu5kAxvZxF3czT08qNfWiL7h+3Z2sJPd7OFeufu4n81s4YHQLbbyEA/zCI/yGI/zBE/yFE/zDM/yHM/zAi/yEi/zCq/yGq+zje3sYCe7eIM3eU+vvRF9w/dDHOYIRznGW3Jv8w672cO7oVvsZR/7eZ8P+JCPOMBBPuYTPuUzPucLvuQrvuYbvuU7vucHfuQQhznCT/zML/yp1/GIvuF7yZggKEVp4ojnV7nf+J2jHOOP0C2O8xd/8w//coKgRBDEEEsJzuBMzuJszuFczuN8LuBCLuJiLuFSSlKK0pShLOWorFdCzP/7hu+JJJFMCqmUl6tAReKIp1LoFglUoSrVqE4NalKL2tShLvWoTwMa0ojGNKEpzWhOC1rSikSSSKY1bWhLJ73SIvqG7+lkkEkOubSTa08HUkilY+gWaXSmC13pRnd60JNe9KYPfelHfwYwkEEMZghDGcZwRjCSdDLIZBSjGcN4vfIi+obvBRRSxGqKyZLLZiw55DIudIs8JjCRSUxmClOZxnRmMJNZzGYOc5nHfBawkEUsZglLyaeAQopYxnJWsEavtRF9w/f/ADiLKTKgDwAA
+  </data>
+ </layer>
+ <layer name="rock_2" width="50" height="20">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+3MwREBYRBE4Sn+IKwgEAQbxBIEmwSCQBAIAkEgCFz3BTCHOe049Kv6jt1mSimlstsWsx32GGCIUv5763Vge8QJI1QYB/+ytl5nthdcMcEUs+Bf1tbrxvaOB+ZYoA7+ZW29nmxfeKPBEqvgX9bW68P2ix/W2KAN/mVtlVJK9VsH318YY6APAAA=
+  </data>
+ </layer>
+ <layer name="rock_1" width="50" height="20">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+3UsQ2AUAgEUApG0SXUIb4Ooe4/gVDR0EgI5Cf3kivvyiMCAJjfwkQrz9X1bLK1B/e6up4hW2dwr6vruWXrCe51dQGiMv/sYEtlV2X+2cWWyq7K/LOXLZVdhT8D+OcDb6OdSKAPAAA=
+  </data>
+ </layer>
+ <layer name="jewel" width="50" height="20">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+3SOw4AIAhEQe7E/e9mZUNiIix+ijcNhewWBjMAAFDhj7KdPMxb2Znr+IfYkelUsnH/xD3sdCrZ1Z5yD5V3Jat2A8BPBhcKFpWgDwAA
+  </data>
+ </layer>
+ <objectgroup name="enemy_1"/>
+ <objectgroup name="enemy_2">
+  <object x="494.667" y="193.333">
+   <ellipse/>
+  </object>
+  <object x="976" y="192">
+   <ellipse/>
+  </object>
+ </objectgroup>
+</map>

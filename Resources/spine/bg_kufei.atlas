@@ -1,0 +1,146 @@
+
+bg_kufei.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kefei_zuobi
+  rotate: false
+  xy: 422, 64
+  size: 89, 62
+  orig: 89, 62
+  offset: 0, 0
+  index: -1
+kufei_shenti
+  rotate: false
+  xy: 2, 53
+  size: 283, 200
+  orig: 283, 200
+  offset: 0, 0
+  index: -1
+kufei_weiyi
+  rotate: true
+  xy: 829, 159
+  size: 30, 97
+  orig: 30, 97
+  offset: 0, 0
+  index: -1
+kufei_yanbai
+  rotate: false
+  xy: 2, 2
+  size: 97, 49
+  orig: 97, 49
+  offset: 0, 0
+  index: -1
+kufei_yanpi1
+  rotate: false
+  xy: 101, 6
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+kufei_yanpi2
+  rotate: false
+  xy: 829, 191
+  size: 104, 62
+  orig: 104, 62
+  offset: 0, 0
+  index: -1
+kufei_youjiao
+  rotate: false
+  xy: 287, 130
+  size: 142, 123
+  orig: 142, 123
+  offset: 0, 0
+  index: -1
+kufei_youjiyi
+  rotate: true
+  xy: 572, 141
+  size: 112, 129
+  orig: 112, 129
+  offset: 0, 0
+  index: -1
+kufei_youshou
+  rotate: false
+  xy: 703, 164
+  size: 124, 89
+  orig: 124, 89
+  offset: 0, 0
+  index: -1
+kufei_youshouzhang
+  rotate: false
+  xy: 638, 92
+  size: 54, 47
+  orig: 54, 47
+  offset: 0, 0
+  index: -1
+kufei_youyan
+  rotate: true
+  xy: 265, 25
+  size: 26, 20
+  orig: 26, 20
+  offset: 0, 0
+  index: -1
+kufei_zuojiao
+  rotate: true
+  xy: 431, 128
+  size: 125, 139
+  orig: 125, 139
+  offset: 0, 0
+  index: -1
+kufei_zuojiaogen
+  rotate: false
+  xy: 703, 133
+  size: 37, 29
+  orig: 37, 29
+  offset: 0, 0
+  index: -1
+kufei_zuojiyi1
+  rotate: true
+  xy: 287, 61
+  size: 67, 133
+  orig: 67, 133
+  offset: 0, 0
+  index: -1
+kufei_zuojiyi2
+  rotate: true
+  xy: 513, 53
+  size: 73, 57
+  orig: 73, 57
+  offset: 0, 0
+  index: -1
+kufei_zuoshou
+  rotate: false
+  xy: 572, 67
+  size: 64, 72
+  orig: 64, 72
+  offset: 0, 0
+  index: -1
+kufei_zuoshoudi
+  rotate: false
+  xy: 203, 14
+  size: 60, 37
+  orig: 60, 37
+  offset: 0, 0
+  index: -1
+kufei_zuoshouzhang
+  rotate: false
+  xy: 638, 43
+  size: 47, 47
+  orig: 47, 47
+  offset: 0, 0
+  index: -1
+kufei_zuotui
+  rotate: false
+  xy: 935, 189
+  size: 75, 64
+  orig: 75, 64
+  offset: 0, 0
+  index: -1
+kufei_zuoyan
+  rotate: false
+  xy: 742, 138
+  size: 29, 24
+  orig: 29, 24
+  offset: 0, 0
+  index: -1

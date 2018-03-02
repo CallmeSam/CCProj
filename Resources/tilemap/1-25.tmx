@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="50" height="20" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" source="caodi.tsx"/>
+ <tileset firstgid="49" source="gold.tsx"/>
+ <tileset firstgid="52" source="map1.tsx"/>
+ <tileset firstgid="1014" source="zhangai3.tsx"/>
+ <tileset firstgid="1278" source="zhongdian.tsx"/>
+ <layer name="root_2" width="50" height="20">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+3OORKCUBREURJAhgRFNGE2kXn/q/MGfwH8xEfQt+okHXUQKKWUUkpdoxARYtyMv5wtQYoMudsK3PFAafTLtycqvPB2W40GLTqbW971GDDi47YvJsxYjH75tmLDjsP4i1Lqf/0Agk2qIKAPAAA=
+  </data>
+ </layer>
+ <layer name="root_1" width="50" height="20">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+3PS04CQRRG4eotKIqI+xBBeewDQUHdB4+GVpbBW3QfCCLKPgB5OvUMqzo9MTHdNag/+ZI7PFcIMzMzMzMzMzP9VkAx6Ih/WB0OqrBRCzbnT2uihTZe8Io+njEIsEteB130hNor30O8YYQvzPCBKT79T/bcGO+YCLVXvudYYIk9frDBFjv/kz33jRXWQu2V7wNLiEOEEMUZThDBqRVYurIjOo4RttRe+T5HDBdII4MrJJHS5I84HQlcunrlO4tr5HCPBxRQxJ0mf+TpuMGtq1e+Syijgic0UIeDR03+qNJho+bqle9fG398eKAPAAA=
+  </data>
+ </layer>
+ <layer name="rock_2" width="50" height="20">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+3PyRFBURBG4ebdDMwywDNkYJaB6ZGBWRIIAkEgCASBILAynK2NrVuqT9W36N3fIpqmaZqmaZ/NjMgcCzwckSdeEG4f/HBgzK+Xfm/JvhXWCCCIEMKIIIoY4pb/sWHfFjskkEQKLtLIIIuc5X/s2XfAEXkUUEQJZVRQRc3yP07sO+OCOhpoooU2PHTQtfyPK/tuuKOHPgYYYoQxJpha/oem/VNvU1vNz6APAAA=
+  </data>
+ </layer>
+ <layer name="rock_1" width="50" height="20">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+3PyQ2CYBRF4X9BcaDYAk4tgGALji04QAs40AKgtuDYgmPiKcCNG81L3km+/b3GaJr262zLGAcVVOGiZv171fd5bK6jgSZaaAv84bM5QAchInQF/uixuY8BhhhhLPDHhM1TzDBHjETgj5TNCyyxwhqZwB85mwuU2GCLncAfezYfcMQJZ1wE/riy+YY7HnjiJfCHpmma9rk39tY+DKAPAAA=
+  </data>
+ </layer>
+ <layer name="jewel" width="50" height="20">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+2UXQoAIAiDvZP3v1v0EFTQv9mCfS9FCNtSFCEjtHH/Cc1Ord5+oecXPYtK+fdWtZ6c+EHJYuHjVZYbc+E9ax46tzU8+2+t9XK3WGmj7JLIrhekDIlVT4gZEsjeCCFkhgDEZJbaoA8AAA==
+  </data>
+ </layer>
+ <objectgroup name="enemy_1"/>
+ <objectgroup name="enemy_2">
+  <object x="334" y="400">
+   <ellipse/>
+  </object>
+  <object x="496" y="302">
+   <ellipse/>
+  </object>
+  <object x="656" y="208">
+   <ellipse/>
+  </object>
+  <object x="942" y="208">
+   <ellipse/>
+  </object>
+  <object x="1102" y="304">
+   <ellipse/>
+  </object>
+  <object x="1262" y="400">
+   <ellipse/>
+  </object>
+ </objectgroup>
+</map>

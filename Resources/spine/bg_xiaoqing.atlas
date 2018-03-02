@@ -1,0 +1,53 @@
+bg_xiaoqing.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xiaoqing_a5
+  rotate: false
+  xy: 386, 98
+  size: 58, 49
+  orig: 58, 49
+  offset: 0, 0
+  index: -1
+xiaoqing_a2
+  rotate: false
+  xy: 386, 2
+  size: 83, 94
+  orig: 83, 94
+  offset: 0, 0
+  index: -1
+xiaoqing_a3
+  rotate: false
+  xy: 305, 2
+  size: 79, 101
+  orig: 79, 101
+  offset: 0, 0
+  index: -1
+xiaoqing_a1
+  rotate: false
+  xy: 235, 2
+  size: 68, 107
+  orig: 68, 107
+  offset: 0, 0
+  index: -1
+xiaoqing_a6
+  rotate: false
+  xy: 264, 111
+  size: 41, 15
+  orig: 41, 15
+  offset: 0, 0
+  index: -1
+xiaoqing_a7
+  rotate: false
+  xy: 2, 2
+  size: 231, 148
+  orig: 231, 148
+  offset: 0, 0
+  index: -1
+xiaoqing_a4
+  rotate: true
+  xy: 235, 111
+  size: 35, 27
+  orig: 35, 27
+  offset: 0, 0
+  index: -1

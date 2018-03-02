@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="50" height="20" tilewidth="32" tileheight="32" nextobjectid="1">
+ <tileset firstgid="1" name="map1" tilewidth="32" tileheight="32" tilecount="962" columns="37">
+  <image source="map1.png" width="1184" height="832"/>
+  <tile id="185">
+   <properties>
+    <property name="floor" value="on"/>
+   </properties>
+  </tile>
+  <tile id="186">
+   <properties>
+    <property name="floor" value="on"/>
+   </properties>
+  </tile>
+  <tile id="187">
+   <properties>
+    <property name="floor" value="on"/>
+   </properties>
+  </tile>
+  <tile id="188">
+   <properties>
+    <property name="floor" value="on"/>
+   </properties>
+  </tile>
+  <tile id="189">
+   <properties>
+    <property name="floor" value="on"/>
+   </properties>
+  </tile>
+  <tile id="190">
+   <properties>
+    <property name="floor" value="on"/>
+   </properties>
+  </tile>
+  <tile id="191">
+   <properties>
+    <property name="floor" value="on"/>
+   </properties>
+  </tile>
+  <tile id="192">
+   <properties>
+    <property name="floor" value="on"/>
+   </properties>
+  </tile>
+  <tile id="193">
+   <properties>
+    <property name="floor" value="on"/>
+   </properties>
+  </tile>
+  <tile id="194">
+   <properties>
+    <property name="floor" value="on"/>
+   </properties>
+  </tile>
+  <tile id="195">
+   <properties>
+    <property name="floor" value="on"/>
+   </properties>
+  </tile>
+  <tile id="196">
+   <properties>
+    <property name="floor" value="on"/>
+   </properties>
+  </tile>
+  <tile id="197">
+   <properties>
+    <property name="floor" value="on"/>
+   </properties>
+  </tile>
+  <tile id="198">
+   <properties>
+    <property name="floor" value="on"/>
+   </properties>
+  </tile>
+  <tile id="199">
+   <properties>
+    <property name="floor" value="on"/>
+   </properties>
+  </tile>
+  <tile id="200">
+   <properties>
+    <property name="floor" value="on"/>
+   </properties>
+  </tile>
+  <tile id="201">
+   <properties>
+    <property name="floor" value="on"/>
+   </properties>
+  </tile>
+  <tile id="202">
+   <properties>
+    <property name="floor" value="on"/>
+   </properties>
+  </tile>
+  <tile id="203">
+   <properties>
+    <property name="floor" value="on"/>
+   </properties>
+  </tile>
+  <tile id="204">
+   <properties>
+    <property name="floor" value="on"/>
+   </properties>
+  </tile>
+  <tile id="205">
+   <properties>
+    <property name="floor" value="on"/>
+   </properties>
+  </tile>
+  <tile id="206">
+   <properties>
+    <property name="floor" value="on"/>
+   </properties>
+  </tile>
+  <tile id="207">
+   <properties>
+    <property name="floor" value="on"/>
+   </properties>
+  </tile>
+  <tile id="208">
+   <properties>
+    <property name="floor" value="on"/>
+   </properties>
+  </tile>
+  <tile id="209">
+   <properties>
+    <property name="floor" value="on"/>
+   </properties>
+  </tile>
+  <tile id="210">
+   <properties>
+    <property name="floor" value="on"/>
+   </properties>
+  </tile>
+  <tile id="211">
+   <properties>
+    <property name="floor" value="on"/>
+   </properties>
+  </tile>
+  <tile id="212">
+   <properties>
+    <property name="floor" value="on"/>
+   </properties>
+  </tile>
+  <tile id="213">
+   <properties>
+    <property name="floor" value="on"/>
+   </properties>
+  </tile>
+  <tile id="214">
+   <properties>
+    <property name="floor" value="on"/>
+   </properties>
+  </tile>
+  <tile id="215">
+   <properties>
+    <property name="floor" value="on"/>
+   </properties>
+  </tile>
+  <tile id="666">
+   <properties>
+    <property name="floor" value="on"/>
+   </properties>
+  </tile>
+  <tile id="667">
+   <properties>
+    <property name="floor" value="on"/>
+   </properties>
+  </tile>
+  <tile id="668">
+   <properties>
+    <property name="floor" value="on"/>
+   </properties>
+  </tile>
+  <tile id="669">
+   <properties>
+    <property name="floor" value="on"/>
+   </properties>
+  </tile>
+  <tile id="670">
+   <properties>
+    <property name="floor" value="on"/>
+   </properties>
+  </tile>
+  <tile id="671">
+   <properties>
+    <property name="floor" value="on"/>
+   </properties>
+  </tile>
+  <tile id="672">
+   <properties>
+    <property name="floor" value="on"/>
+   </properties>
+  </tile>
+  <tile id="673">
+   <properties>
+    <property name="floor" value="on"/>
+   </properties>
+  </tile>
+  <tile id="674">
+   <properties>
+    <property name="floor" value="on"/>
+   </properties>
+  </tile>
+  <tile id="675">
+   <properties>
+    <property name="floor" value="on"/>
+   </properties>
+  </tile>
+  <tile id="676">
+   <properties>
+    <property name="floor" value="on"/>
+   </properties>
+  </tile>
+  <tile id="677">
+   <properties>
+    <property name="floor" value="on"/>
+   </properties>
+  </tile>
+  <tile id="678">
+   <properties>
+    <property name="floor" value="on"/>
+   </properties>
+  </tile>
+  <tile id="679">
+   <properties>
+    <property name="floor" value="on"/>
+   </properties>
+  </tile>
+  <tile id="680">
+   <properties>
+    <property name="floor" value="on"/>
+   </properties>
+  </tile>
+  <tile id="681">
+   <properties>
+    <property name="floor" value="on"/>
+   </properties>
+  </tile>
+  <tile id="682">
+   <properties>
+    <property name="floor" value="on"/>
+   </properties>
+  </tile>
+  <tile id="683">
+   <properties>
+    <property name="floor" value="on"/>
+   </properties>
+  </tile>
+  <tile id="684">
+   <properties>
+    <property name="floor" value="on"/>
+   </properties>
+  </tile>
+  <tile id="685">
+   <properties>
+    <property name="floor" value="on"/>
+   </properties>
+  </tile>
+  <tile id="686">
+   <properties>
+    <property name="floor" value="on"/>
+   </properties>
+  </tile>
+  <tile id="687">
+   <properties>
+    <property name="floor" value="on"/>
+   </properties>
+  </tile>
+  <tile id="688">
+   <properties>
+    <property name="floor" value="on"/>
+   </properties>
+  </tile>
+  <tile id="689">
+   <properties>
+    <property name="floor" value="on"/>
+   </properties>
+  </tile>
+  <tile id="690">
+   <properties>
+    <property name="floor" value="on"/>
+   </properties>
+  </tile>
+  <tile id="691">
+   <properties>
+    <property name="floor" value="on"/>
+   </properties>
+  </tile>
+  <tile id="692">
+   <properties>
+    <property name="floor" value="on"/>
+   </properties>
+  </tile>
+  <tile id="693">
+   <properties>
+    <property name="floor" value="on"/>
+   </properties>
+  </tile>
+  <tile id="694">
+   <properties>
+    <property name="floor" value="on"/>
+   </properties>
+  </tile>
+  <tile id="695">
+   <properties>
+    <property name="floor" value="on"/>
+   </properties>
+  </tile>
+  <tile id="696">
+   <properties>
+    <property name="floor" value="on"/>
+   </properties>
+  </tile>
+  <tile id="697">
+   <properties>
+    <property name="floor" value="on"/>
+   </properties>
+  </tile>
+  <tile id="698">
+   <properties>
+    <property name="floor" value="on"/>
+   </properties>
+  </tile>
+  <tile id="699">
+   <properties>
+    <property name="floor" value="on"/>
+   </properties>
+  </tile>
+  <tile id="700">
+   <properties>
+    <property name="floor" value="on"/>
+   </properties>
+  </tile>
+  <tile id="701">
+   <properties>
+    <property name="floor" value="on"/>
+   </properties>
+  </tile>
+  <tile id="702">
+   <properties>
+    <property name="floor" value="on"/>
+   </properties>
+  </tile>
+ </tileset>
+ <tileset firstgid="963" name="caodi" tilewidth="32" tileheight="32" tilecount="48" columns="12">
+  <image source="caodi.png" width="384" height="128"/>
+ </tileset>
+ <tileset firstgid="1011" name="gold" tilewidth="32" tileheight="32" tilecount="3" columns="3">
+  <image source="gold.png" width="96" height="32"/>
+  <tile id="0">
+   <properties>
+    <property name="jewelType" value="0"/>
+   </properties>
+  </tile>
+  <tile id="1">
+   <properties>
+    <property name="jewelType" value="1"/>
+   </properties>
+  </tile>
+  <tile id="2">
+   <properties>
+    <property name="jewelType" value="2"/>
+   </properties>
+  </tile>
+ </tileset>
+ <tileset firstgid="1014" source="zhangai3.tsx"/>
+ <layer name="root_2" width="50" height="20">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+2PTQqCcBBH/+D9T6W10bTcpKZurEw3fpygdwERYkSJ34MHs3oz45wQQggh/gXfcy7AE569va/5nYTbr3jD1PiPkF6EF4yN2kvNB3OJFdbGf9zpZZhjYdRearbMH+ywN/6joffEF76N2ls01xjYM+KEs9HOLZpCiGPzBTns5BqgDwAA
+  </data>
+ </layer>
+ <layer name="root_1" width="50" height="20">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+3UVXTWdRgH8HdJbjC6u7YBGxuM7q5t9AS7CwRUEBSxuykFpQxSAVvABMXulgZhg9HdfN5L/3fcet7nnM85z833Od/fzS8UikxkIhOZyEQmMv/32RoVCm1jO/+yg53kU8AudlPIHvayj/0c4CCHOMwRjnKM45zgJKc4zRnOco5QdCgURTQxxBJHfPSF9U8jnSJyRSlGcUpQkgQSKUVpkihDWcpRngpUpBKVqUJVqlGdGtSkFrWpQ13qUZ8GNKQRyaSQeoHvGMwQGss1oSlppNOMDDJpTguyaEkrWtOGtrSjPR3oSCc604WudKM7PehJL3rTh770oz/Z5JDLML3yAn1HM4axgX0CExkgN5BBDGYIQ8O3yOMihjOCi7mES7mMy7mCK7mKq7mGa7mO67mBG7mJmxnJKG5hNGMYy63cxu3cpdekQN9pTGdGYJ/NHMbJjecOJjCRO8O3mMTdTOYe7uU+7ucBHuQhHuYRHuUxHucJnuQpnuYZnuU5pjCVaUxnBs/zAjOZp9f8QN+VrGJ1YF/DWmbJvchLzGYOc8O3mM/LvMKrvMYCFrKIxSxhKa/zBstYzgre5C3e5h3e5T3e5wNWsorVfMhHfMwXeq0L9N3EZrYE9nwK+ETuUz5jDWv5PHyLdXzJV3zNN3zLd3zPD/zIT/zML/zKb/zOH/zJX/zNP6xnAxvZxGa2sJVtbGe3XoWBvrH+uDjio/67J5AY/mvldrCTfArYFb5FIXvYyz72c4CDHOIwRzjKMY5zgpOc4jRnOMs5QjH+WqKJIZY44ilCUYpRWq+kQN9kUkgN7BlkUlyuBCVJIJFS4VskUYaylKM8FahIJSpThapUozo1qEktalOHutSjPg1oSCOSSSGVxjShKS30ygr0zSaH3MA+jDzS5NJpRgaZNA/fIouWtKI1bWhLO9rTgY50ojNd6Eo3utODnvSiN33oSz/6k00OuQxgIIMYrteIQN/z4Wns2KAPAAA=
+  </data>
+ </layer>
+ <layer name="rock_1" width="50" height="20">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+3BMQEAAADCoPVPbQwfoAAAAIC3Ab6TizqgDwAA
+  </data>
+ </layer>
+ <layer name="jewel" width="50" height="20">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+3SOwoAIAwE0YD3P669WAQsokaE+GFeZzcbFAEA4G85nS7Ypxte3NJrv2lLbRn1zO4ftUU7rd72bfV4GyO29HbMulfbbvpjAOBRAJDEsfWgDwAA
+  </data>
+ </layer>
+</map>

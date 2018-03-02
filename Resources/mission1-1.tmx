@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="25" height="15" tilewidth="32" tileheight="32" nextobjectid="21">
+ <tileset firstgid="1" name="root" tilewidth="32" tileheight="32" tilecount="375" columns="25">
+  <image source="root.png" width="800" height="480"/>
+  <tile id="76">
+   <properties>
+    <property name="floor" value="off"/>
+   </properties>
+  </tile>
+  <tile id="77">
+   <properties>
+    <property name="floor" value="on"/>
+   </properties>
+  </tile>
+  <tile id="78">
+   <properties>
+    <property name="floor" value="on"/>
+   </properties>
+  </tile>
+  <tile id="79">
+   <properties>
+    <property name="floor" value="on"/>
+   </properties>
+  </tile>
+  <tile id="80">
+   <properties>
+    <property name="floor" value="on"/>
+   </properties>
+  </tile>
+  <tile id="81">
+   <properties>
+    <property name="floor" value="on"/>
+   </properties>
+  </tile>
+  <tile id="82">
+   <properties>
+    <property name="floor" value="on"/>
+   </properties>
+  </tile>
+  <tile id="83">
+   <properties>
+    <property name="floor" value="on"/>
+   </properties>
+  </tile>
+  <tile id="84">
+   <properties>
+    <property name="floor" value="on"/>
+   </properties>
+  </tile>
+  <tile id="85">
+   <properties>
+    <property name="floor" value="on"/>
+   </properties>
+  </tile>
+  <tile id="86">
+   <properties>
+    <property name="floor" value="on"/>
+   </properties>
+  </tile>
+  <tile id="87">
+   <properties>
+    <property name="floor" value="on"/>
+   </properties>
+  </tile>
+  <tile id="88">
+   <properties>
+    <property name="floor" value="on"/>
+   </properties>
+  </tile>
+  <tile id="89">
+   <properties>
+    <property name="floor" value="on"/>
+   </properties>
+  </tile>
+  <tile id="90">
+   <properties>
+    <property name="floor" value="on"/>
+   </properties>
+  </tile>
+  <tile id="91">
+   <properties>
+    <property name="floor" value="on"/>
+   </properties>
+  </tile>
+  <tile id="92">
+   <properties>
+    <property name="floor" value="on"/>
+   </properties>
+  </tile>
+  <tile id="93">
+   <properties>
+    <property name="floor" value="on"/>
+   </properties>
+  </tile>
+  <tile id="94">
+   <properties>
+    <property name="floor" value="on"/>
+   </properties>
+  </tile>
+  <tile id="95">
+   <properties>
+    <property name="floor" value="on"/>
+   </properties>
+  </tile>
+  <tile id="96">
+   <properties>
+    <property name="floor" value="on"/>
+   </properties>
+  </tile>
+  <tile id="97">
+   <properties>
+    <property name="floor" value="on"/>
+   </properties>
+  </tile>
+  <tile id="98">
+   <properties>
+    <property name="floor" value="on"/>
+   </properties>
+  </tile>
+  <tile id="254">
+   <properties>
+    <property name="block" value=""/>
+   </properties>
+  </tile>
+  <tile id="276">
+   <properties>
+    <property name="stumble" value="on"/>
+   </properties>
+  </tile>
+ </tileset>
+ <tileset firstgid="376" name="coin" tilewidth="32" tileheight="32" tilecount="3" columns="3">
+  <image source="coin.png" width="97" height="32"/>
+  <tile id="0">
+   <properties>
+    <property name="jewelType" value="1"/>
+   </properties>
+  </tile>
+  <tile id="1">
+   <properties>
+    <property name="jewelType" value="2"/>
+   </properties>
+  </tile>
+  <tile id="2">
+   <properties>
+    <property name="jewelType" value="3"/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="root" width="25" height="15">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+3O1XcPABjH4R82bJrb+St018x0d3d3THd3d3dPDhszOUw3093d/Vy64Mpx3Pic97n5Xr2BwP/+pLB//cBfLPtPflcQwb/Yc5CTXOQmD3nJR34KUJBCFKYIRSlGcUoQTkkiKEUkpSlDWcpRngpUpBKVqUJVqlGdGtSkFrWpQ13qUZ8GNKQRjWlCU5rRnBa0pBWtaUNb2tGeDnSkE53pQle60Z0eRNGTXvSmD33pR38GMJBBDGYIQxnGcEYwklGMZgxjGcd4JjCRSUxmClOZxnRmMJNZzGYOc5nHfBawkEUsZglLWcZyVrCSVaxmDWtZx3qi2cBGNrGZLWwlhm1sZwexxLGTXcSzmwT2sJd97OcAB0nkEIc5QhJHOcZxTnCSU5zmDGc5x3kucJFLXCaZK1zlGte5wU1ucZs73OUe93nAQx7xmCc85RnPecFLXvGaN7zlHe/5wEc+8ZkvfOUb3wmkcKQkFUEEk5o0pCWEUNKRngxkJBOZyUJWsvEDQrPJx9wFAAA=
+  </data>
+ </layer>
+</map>

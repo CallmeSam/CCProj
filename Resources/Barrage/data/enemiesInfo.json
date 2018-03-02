@@ -1,0 +1,3 @@
+[
+	{"id":1, "name" : "酱酿", "speed" : 150, "damage" : 10, "life" : 10, "pic":"green.png", "scale" : -0.5, "upgrade":{}}
+]

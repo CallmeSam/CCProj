@@ -1,0 +1,81 @@
+baishu.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baishu1
+  rotate: false
+  xy: 2, 139
+  size: 30, 13
+  orig: 30, 13
+  offset: 0, 0
+  index: -1
+baishu4
+  rotate: true
+  xy: 2, 108
+  size: 29, 14
+  orig: 29, 14
+  offset: 0, 0
+  index: -1
+baishu3
+  rotate: false
+  xy: 33, 91
+  size: 29, 15
+  orig: 29, 15
+  offset: 0, 0
+  index: -1
+baishu6
+  rotate: false
+  xy: 2, 91
+  size: 29, 15
+  orig: 29, 15
+  offset: 0, 0
+  index: -1
+baishu5
+  rotate: false
+  xy: 34, 108
+  size: 27, 15
+  orig: 27, 15
+  offset: 0, 0
+  index: -1
+guai_yan2
+  rotate: true
+  xy: 50, 125
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+guai_yan
+  rotate: false
+  xy: 34, 125
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+guai_a0
+  rotate: true
+  xy: 2, 2
+  size: 87, 56
+  orig: 87, 56
+  offset: 0, 0
+  index: -1
+guai_jiao2
+  rotate: true
+  xy: 48, 141
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+guai_jiao1
+  rotate: true
+  xy: 34, 141
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+baishu2
+  rotate: true
+  xy: 18, 108
+  size: 28, 14
+  orig: 28, 14
+  offset: 0, 0
+  index: -1

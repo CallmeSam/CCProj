@@ -1,0 +1,139 @@
+
+bg_duoduo.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+duoduo_shenti
+  rotate: false
+  xy: 2, 27
+  size: 193, 226
+  orig: 193, 226
+  offset: 0, 0
+  index: -1
+duoduo_yanbai
+  rotate: false
+  xy: 452, 184
+  size: 123, 69
+  orig: 123, 69
+  offset: 0, 0
+  index: -1
+duoduo_yanpi1
+  rotate: false
+  xy: 906, 212
+  size: 110, 41
+  orig: 110, 41
+  offset: 0, 0
+  index: -1
+duoduo_yanpi2
+  rotate: false
+  xy: 577, 181
+  size: 120, 72
+  orig: 120, 72
+  offset: 0, 0
+  index: -1
+duoduo_yinying
+  rotate: true
+  xy: 647, 105
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1
+duoduo_youbi
+  rotate: false
+  xy: 452, 118
+  size: 73, 64
+  orig: 73, 64
+  offset: 0, 0
+  index: -1
+duoduo_youdi
+  rotate: true
+  xy: 2, 9
+  size: 16, 44
+  orig: 16, 44
+  offset: 0, 0
+  index: -1
+duoduo_youjiaozhang
+  rotate: false
+  xy: 747, 145
+  size: 35, 34
+  orig: 35, 34
+  offset: 0, 0
+  index: -1
+duoduo_youjiyi
+  rotate: false
+  xy: 197, 150
+  size: 133, 103
+  orig: 133, 103
+  offset: 0, 0
+  index: -1
+duoduo_youshou
+  rotate: true
+  xy: 577, 112
+  size: 67, 68
+  orig: 67, 68
+  offset: 0, 0
+  index: -1
+duoduo_youshouzhang
+  rotate: false
+  xy: 527, 132
+  size: 48, 50
+  orig: 48, 50
+  offset: 0, 0
+  index: -1
+duoduo_youtui
+  rotate: true
+  xy: 699, 181
+  size: 72, 96
+  orig: 72, 96
+  offset: 0, 0
+  index: -1
+duoduo_youyan
+  rotate: false
+  xy: 679, 105
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+duoduo_zuobi
+  rotate: true
+  xy: 797, 195
+  size: 58, 107
+  orig: 58, 107
+  offset: 0, 0
+  index: -1
+duoduo_zuojiang
+  rotate: false
+  xy: 647, 130
+  size: 57, 49
+  orig: 57, 49
+  offset: 0, 0
+  index: -1
+duoduo_zuojiyi
+  rotate: false
+  xy: 197, 43
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+duoduo_zuoshouzhang
+  rotate: false
+  xy: 706, 144
+  size: 39, 35
+  orig: 39, 35
+  offset: 0, 0
+  index: -1
+duoduo_zuotui
+  rotate: true
+  xy: 332, 163
+  size: 90, 118
+  orig: 90, 118
+  offset: 0, 0
+  index: -1
+duoduo_zuoyan
+  rotate: false
+  xy: 48, 2
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,53 @@
+bg_huxuyeye.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huxuyeye6
+  rotate: true
+  xy: 456, 2
+  size: 42, 116
+  orig: 42, 116
+  offset: 0, 0
+  index: -1
+huxuyeye4
+  rotate: false
+  xy: 456, 116
+  size: 74, 99
+  orig: 74, 99
+  offset: 0, 0
+  index: -1
+huxuyeye7
+  rotate: false
+  xy: 2, 2
+  size: 325, 218
+  orig: 325, 218
+  offset: 0, 0
+  index: -1
+huxuyeye2
+  rotate: false
+  xy: 329, 2
+  size: 125, 185
+  orig: 125, 185
+  offset: 0, 0
+  index: -1
+huxuyeye5
+  rotate: true
+  xy: 532, 116
+  size: 76, 40
+  orig: 76, 40
+  offset: 0, 0
+  index: -1
+huxuyeye3
+  rotate: true
+  xy: 456, 46
+  size: 68, 103
+  orig: 68, 103
+  offset: 0, 0
+  index: -1
+huxuyeye1
+  rotate: false
+  xy: 532, 194
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1

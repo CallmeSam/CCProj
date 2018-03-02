@@ -1,0 +1,109 @@
+guai6.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guai6_lun
+  rotate: true
+  xy: 2, 2
+  size: 53, 47
+  orig: 53, 47
+  offset: 0, 0
+  index: -1
+guai6_yan
+  rotate: false
+  xy: 234, 34
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+guai6_xy6
+  rotate: false
+  xy: 174, 40
+  size: 29, 15
+  orig: 29, 15
+  offset: 0, 0
+  index: -1
+guai6_jiao
+  rotate: false
+  xy: 51, 48
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+guai6_xy4
+  rotate: false
+  xy: 113, 45
+  size: 29, 14
+  orig: 29, 14
+  offset: 0, 0
+  index: -1
+guai6_weiba
+  rotate: false
+  xy: 77, 48
+  size: 18, 7
+  orig: 18, 7
+  offset: 0, 0
+  index: -1
+guai6_xy2
+  rotate: false
+  xy: 144, 45
+  size: 28, 14
+  orig: 28, 14
+  offset: 0, 0
+  index: -1
+guai6_xy5
+  rotate: false
+  xy: 205, 39
+  size: 27, 15
+  orig: 27, 15
+  offset: 0, 0
+  index: -1
+guai6_toubu2
+  rotate: true
+  xy: 184, 2
+  size: 35, 29
+  orig: 35, 29
+  offset: 0, 0
+  index: -1
+guai6_xy3
+  rotate: false
+  xy: 215, 17
+  size: 29, 15
+  orig: 29, 15
+  offset: 0, 0
+  index: -1
+guai6_yan2
+  rotate: false
+  xy: 67, 48
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+guai6_xy1
+  rotate: false
+  xy: 215, 2
+  size: 30, 13
+  orig: 30, 13
+  offset: 0, 0
+  index: -1
+guai6_shenti
+  rotate: false
+  xy: 51, 2
+  size: 60, 44
+  orig: 60, 46
+  offset: 0, 2
+  index: -1
+guai6_toubu
+  rotate: false
+  xy: 113, 2
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+guai6_zui
+  rotate: true
+  xy: 150, 2
+  size: 36, 32
+  orig: 36, 32
+  offset: 0, 0
+  index: -1

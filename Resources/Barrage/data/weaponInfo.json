@@ -1,0 +1,9 @@
+[
+	{
+		"id" : "1", "interval" : 0.5, "upgrade" : {"interval" : -0.02}, 
+		"transform" : [[{"rotate" : 0, "offset":"10, 35"}], 
+						[{"rotate" : -45, "offset":"8, 35"}, {"rotate" : 45, "offset":"100, 35"}], 
+						[{"rotate" : 0, "offset":"17, 40"}, {"rotate" : 0, "offset":"17, 40"}, {"rotate" : 0, "offset":"17, 40"}], 
+						[{"rotate" : -90, "offset":"0, 10"}, {"rotate" : -45, "offset":"25, 35"}, {"rotate" : 45, "offset":"45, 35"}, {"rotate" : 90, "offset":"60, 10"}]]
+	}
+]

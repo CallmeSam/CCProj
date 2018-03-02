@@ -1,0 +1,111 @@
+
+bg_xiaoai.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xiaoai_shenti
+  rotate: false
+  xy: 2, 2
+  size: 235, 236
+  orig: 235, 236
+  offset: 0, 0
+  index: -1
+xiaoai_yanbai
+  rotate: false
+  xy: 239, 40
+  size: 138, 96
+  orig: 138, 96
+  offset: 0, 0
+  index: -1
+xiaoai_yanpi1
+  rotate: false
+  xy: 379, 166
+  size: 132, 72
+  orig: 132, 72
+  offset: 0, 0
+  index: -1
+xiaoai_yanpi2
+  rotate: false
+  xy: 239, 138
+  size: 138, 100
+  orig: 138, 100
+  offset: 0, 0
+  index: -1
+xiaoai_youbi
+  rotate: false
+  xy: 865, 195
+  size: 47, 43
+  orig: 47, 43
+  offset: 0, 0
+  index: -1
+xiaoai_youjiao
+  rotate: true
+  xy: 611, 158
+  size: 80, 92
+  orig: 80, 92
+  offset: 0, 0
+  index: -1
+xiaoai_youshou
+  rotate: true
+  xy: 513, 153
+  size: 85, 96
+  orig: 85, 96
+  offset: 0, 0
+  index: -1
+xiaoai_youshouzhang
+  rotate: false
+  xy: 239, 4
+  size: 47, 34
+  orig: 47, 34
+  offset: 0, 0
+  index: -1
+xiaoai_youtui
+  rotate: false
+  xy: 463, 108
+  size: 47, 56
+  orig: 47, 56
+  offset: 0, 0
+  index: -1
+xiaoai_youyan
+  rotate: false
+  xy: 914, 210
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+xiaoai_zuitui
+  rotate: false
+  xy: 801, 189
+  size: 62, 49
+  orig: 62, 49
+  offset: 0, 0
+  index: -1
+xiaoai_zuobi
+  rotate: true
+  xy: 705, 164
+  size: 74, 94
+  orig: 74, 94
+  offset: 0, 0
+  index: -1
+xiaoai_zuojiao
+  rotate: false
+  xy: 379, 44
+  size: 82, 120
+  orig: 82, 120
+  offset: 0, 0
+  index: -1
+xiaoai_zuoshouzhang
+  rotate: false
+  xy: 463, 80
+  size: 33, 26
+  orig: 33, 26
+  offset: 0, 0
+  index: -1
+xiaoai_zuoyan
+  rotate: false
+  xy: 288, 9
+  size: 27, 29
+  orig: 27, 29
+  offset: 0, 0
+  index: -1

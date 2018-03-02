@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="50" height="20" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" source="map1.tsx"/>
+ <tileset firstgid="963" source="caodi.tsx"/>
+ <tileset firstgid="1011" source="gold.tsx"/>
+ <tileset firstgid="1014" source="zhangai3.tsx"/>
+ <tileset firstgid="1278" source="zhongdian.tsx"/>
+ <layer name="root_2" width="50" height="20">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+3PMQ6CUBBF0UnY/6pAEBoVwQZQoRFQXAN3AfySMMW7yWmmemOmlFJKKeWjLDI7I0cRHb1mu5hdCU5IAxvv3CvUeDj948KuK24oAxtf3N/oMTj9o2FXiw7PwMYv9x8W/J3+8WHXiAmz041Kqf1bARNSRhmgDwAA
+  </data>
+ </layer>
+ <layer name="root_1" width="50" height="20">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+3PSU4CQRjF8epERVSIHINBQIkeA5maJnoJZ5HgMcQRiB4DEVQIHsNZMXAI/4lsqKSIC+1mUS/5JW9RSb1PCB0dHR0dHR2d8UsEUadH/EEyMJFECmln5wgLuV++3cAmtnCAAvawj/y/rBudbexgF0UcShtV/QglHKOCKs5xgbKtF/zkBKc4wyWupI2qXsM16mihjVvc4d7OAwa5QQNNdPAgbVT1RzzhGV184R0f+LTzgEFe8Io39NCXNqr6hCHEJKbggRczmMWcYfsZwsWf03BjHj5jeKOq+xFAEEuIIYIoFh24I8SfCwhjGSvSRlWPYxUJWMghAxNZB+5I8mcKaaxhXdqo6t+q2KJkoA8AAA==
+  </data>
+ </layer>
+ <layer name="rock_2" width="50" height="20">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+3Pu3JBURSA4TOsh8BDkIfAQ4SHQBlEiS5uJTqXKEMnCaXoXJIydG4p0fofYTtnRo6Z9c981Zq9Zm3L0jRN0zRNu01PYllpZJDFM3Ly31dd3ws3l1BGBVXU7vAfLW5uo4MuXtGz8Y88bwoowgMvRMznThuy6x0f+MQIYxv767xpoAkf/AiI+dxpM3bNscAS3/ixsf+NN30MEEQID2I+d9qGXVvssMcBfzb2T3jzhSnCiCAq5nO39MtNK6zxiBjiYj53S0duOuGMBJJIiflcM+sCeA9nz6APAAA=
+  </data>
+ </layer>
+ <layer name="rock_1" width="50" height="20">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+3BMQEAAADCoPVPbQwfoAAAAIC3Ab6TizqgDwAA
+  </data>
+ </layer>
+ <layer name="jewel" width="50" height="20">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+3QMQoAIAwEwYD/f669lY1IPMJhEXbqYwOJAAAA3c3xZ6M0qnY7u+HYKI2qs3m74dgojarX31wbpQEA3SzVanBBoA8AAA==
+  </data>
+ </layer>
+ <objectgroup name="enemy_1"/>
+ <objectgroup name="enemy_2">
+  <object x="976" y="498.667">
+   <ellipse/>
+  </object>
+ </objectgroup>
+</map>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="50" height="20" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" source="caodi.tsx"/>
+ <tileset firstgid="49" source="gold.tsx"/>
+ <tileset firstgid="52" source="map1.tsx"/>
+ <tileset firstgid="1014" source="zhangai3.tsx"/>
+ <tileset firstgid="1278" source="zhongdian.tsx"/>
+ <layer name="root_2" width="50" height="20">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+3OOQ6DMBBGYZqEEGgIa5MFQpMFyP1Pl3cB2xrJBUj/k75qLM8kiVJKKaXUtjrgiBQnx5sMZ+QoDLOYt4T2lLigQu34v0GLDr1hZs13S2jPFTfc8XD8P2DEE5NhZs13S2jPC2988HX8P2PBip9hZs13S8w9Sql99QeC+NGCoA8AAA==
+  </data>
+ </layer>
+ <layer name="root_1" width="50" height="20">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+3PR4wPYRgH4P8I4ay3ix4bznq76CGc1V0EWxDCDdsXwRa72Q03vV30EM56u+ghnPV2WeVxs2O+zUgcHOaXPMkvX/K+M28ulyVLlixZsmTJ8v9mJatYTSFFFFPyl3vyKfi3v5YqjTSxk13sppY66mmgmZbY3Ga2sDXWq6mhgkqqEr5ZShnl7ewJ9d+znwMc5CKXOMVpznCWc5znApe5EpsL9ROc5CjHOJ5wxyEOcyTlzlC/yjWu85wXPOAhj3jME57yjJe8is2F+j3uc5s73E244wY3uZVyZ6i/5g1v6Rjlcp1o1b/xnR+/PuYtogOd6RK1nQv1L3zlI5/4nHDHO97zoZ09aXpX/9SN7gwnjwEMZBCDGcJQhjGCkVHbuVDvR39604e+0Z939PDWk14pd4b6KEYzhjnMZSrTmM4MZjKL2cxjfmwu1CczhQlMZFLCHWO9jWN8yp2hvoCFLGI9GyikiGJKWMNa1rGRTbG5UF/OCvIpYFnCHYu9LWFpyp2hXkoZ5TTTQi111NPAHhppYi/7YnOhvp0dVFPDtoQ7KrxVUpVyZ6j/BMBl3v2gDwAA
+  </data>
+ </layer>
+ <layer name="rock_1" width="50" height="20">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+3PwQ0AEBBE0T1sUASKQP+1mRo4yMZ/yb/PmAEAAABnkptlVfz1kjtV+5vqwX8M7Z9qBf8B/GoDCciWD6APAAA=
+  </data>
+ </layer>
+ <layer name="jewel" width="50" height="20">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+2RMQ4AIAjE/JP//5srg1w4wmBimxgHpQe6FgAAAPzCHnZN+pzcuN/O46q4lE/VVnNUbpZd9We1Ti+dOdT7u353vuxe9z8AAF7hABFX/5agDwAA
+  </data>
+ </layer>
+ <objectgroup name="enemy_1">
+  <object x="1228" y="480">
+   <ellipse/>
+  </object>
+ </objectgroup>
+</map>

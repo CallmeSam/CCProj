@@ -1,0 +1,116 @@
+chongciguai.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chongciguai_jiao1
+  rotate: false
+  xy: 2, 199
+  size: 29, 21
+  orig: 29, 21
+  offset: 0, 0
+  index: -1
+chongciguai_xy6
+  rotate: false
+  xy: 2, 102
+  size: 35, 18
+  orig: 35, 18
+  offset: 0, 0
+  index: -1
+chongciguai_jiao4
+  rotate: false
+  xy: 2, 243
+  size: 16, 9
+  orig: 16, 9
+  offset: 0, 0
+  index: -1
+chongciguai_xy4
+  rotate: false
+  xy: 2, 142
+  size: 35, 16
+  orig: 35, 16
+  offset: 0, 0
+  index: -1
+chongciguai_jiao2
+  rotate: true
+  xy: 29, 222
+  size: 19, 17
+  orig: 19, 17
+  offset: 0, 0
+  index: -1
+chongciguai_zui1
+  rotate: true
+  xy: 39, 102
+  size: 23, 15
+  orig: 23, 15
+  offset: 0, 0
+  index: -1
+chongciguai_xy2
+  rotate: false
+  xy: 2, 160
+  size: 34, 17
+  orig: 34, 17
+  offset: 0, 0
+  index: -1
+chongciguai_qi
+  rotate: false
+  xy: 2, 222
+  size: 25, 19
+  orig: 25, 19
+  offset: 0, 0
+  index: -1
+chongciguai_xy5
+  rotate: false
+  xy: 2, 179
+  size: 33, 18
+  orig: 33, 18
+  offset: 0, 0
+  index: -1
+chongciguai_jiao3
+  rotate: false
+  xy: 39, 127
+  size: 15, 9
+  orig: 15, 9
+  offset: 0, 0
+  index: -1
+chongciguai_xy3
+  rotate: false
+  xy: 2, 122
+  size: 35, 18
+  orig: 35, 18
+  offset: 0, 0
+  index: -1
+chongciguai_xy1
+  rotate: true
+  xy: 38, 160
+  size: 35, 16
+  orig: 35, 16
+  offset: 0, 0
+  index: -1
+chongciguai_yan2
+  rotate: false
+  xy: 39, 138
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+chongciguai_yan
+  rotate: false
+  xy: 20, 243
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+chongciguai_zui2
+  rotate: true
+  xy: 37, 197
+  size: 19, 17
+  orig: 19, 17
+  offset: 0, 0
+  index: -1
+chongciguai_shen
+  rotate: true
+  xy: 2, 2
+  size: 98, 51
+  orig: 98, 51
+  offset: 0, 0
+  index: -1

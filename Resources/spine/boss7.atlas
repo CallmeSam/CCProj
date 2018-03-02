@@ -1,0 +1,144 @@
+boss7.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+boss7_wei
+  rotate: false
+  xy: 271, 2
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+boss7_yan
+  rotate: false
+  xy: 296, 95
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+boss7_xiazui
+  rotate: true
+  xy: 313, 2
+  size: 27, 11
+  orig: 27, 11
+  offset: 0, 0
+  index: -1
+boss7_yunxuan3
+  rotate: false
+  xy: 92, 84
+  size: 58, 30
+  orig: 58, 30
+  offset: 0, 0
+  index: -1
+boss7_shou1
+  rotate: true
+  xy: 47, 99
+  size: 26, 43
+  orig: 26, 43
+  offset: 0, 0
+  index: -1
+boss7_kai
+  rotate: false
+  xy: 266, 95
+  size: 28, 27
+  orig: 28, 27
+  offset: 0, 0
+  index: -1
+boss7_tui2
+  rotate: false
+  xy: 288, 44
+  size: 10, 16
+  orig: 10, 16
+  offset: 0, 0
+  index: -1
+boss7_tou1
+  rotate: false
+  xy: 81, 84
+  size: 9, 13
+  orig: 9, 13
+  offset: 0, 0
+  index: -1
+boss7_yunxuan4
+  rotate: false
+  xy: 211, 34
+  size: 58, 27
+  orig: 58, 27
+  offset: 0, 0
+  index: -1
+boss7_tui1
+  rotate: false
+  xy: 195, 42
+  size: 10, 24
+  orig: 10, 24
+  offset: 0, 0
+  index: -1
+boss7_di
+  rotate: false
+  xy: 81, 2
+  size: 128, 38
+  orig: 128, 38
+  offset: 0, 0
+  index: -1
+boss7_yunxuan5
+  rotate: false
+  xy: 269, 63
+  size: 55, 30
+  orig: 55, 30
+  offset: 0, 0
+  index: -1
+boss7_yunxuan1
+  rotate: false
+  xy: 208, 63
+  size: 59, 27
+  orig: 59, 27
+  offset: 0, 0
+  index: -1
+boss7_yanzhu
+  rotate: false
+  xy: 271, 44
+  size: 15, 17
+  orig: 15, 17
+  offset: 0, 0
+  index: -1
+boss7_di2
+  rotate: false
+  xy: 81, 42
+  size: 112, 40
+  orig: 112, 40
+  offset: 0, 0
+  index: -1
+boss7_shen
+  rotate: true
+  xy: 152, 84
+  size: 31, 54
+  orig: 31, 54
+  offset: 0, 0
+  index: -1
+boss7_shou2
+  rotate: true
+  xy: 2, 99
+  size: 26, 43
+  orig: 26, 43
+  offset: 0, 0
+  index: -1
+boss7_tou
+  rotate: false
+  xy: 2, 2
+  size: 77, 95
+  orig: 77, 97
+  offset: 0, 2
+  index: -1
+boss7_yunxuan6
+  rotate: false
+  xy: 211, 2
+  size: 58, 30
+  orig: 58, 30
+  offset: 0, 0
+  index: -1
+boss7_yunxuan2
+  rotate: false
+  xy: 208, 92
+  size: 56, 29
+  orig: 56, 29
+  offset: 0, 0
+  index: -1

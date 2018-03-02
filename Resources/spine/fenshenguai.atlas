@@ -1,0 +1,81 @@
+fenshenguai.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fenshenguai_yanzhu2
+  rotate: false
+  xy: 49, 150
+  size: 8, 12
+  orig: 8, 12
+  offset: 0, 0
+  index: -1
+fenshenguai_zuoshou
+  rotate: true
+  xy: 2, 85
+  size: 31, 53
+  orig: 31, 53
+  offset: 0, 0
+  index: -1
+fenshenguai_yan
+  rotate: true
+  xy: 15, 209
+  size: 10, 15
+  orig: 10, 15
+  offset: 0, 0
+  index: -1
+fenshenguai_yanzhu
+  rotate: false
+  xy: 49, 164
+  size: 5, 10
+  orig: 5, 10
+  offset: 0, 0
+  index: -1
+fenshenguai_youshou
+  rotate: true
+  xy: 2, 118
+  size: 30, 50
+  orig: 30, 50
+  offset: 0, 0
+  index: -1
+fenshenguai_shenti
+  rotate: false
+  xy: 2, 2
+  size: 55, 81
+  orig: 55, 81
+  offset: 0, 0
+  index: -1
+fenshenguai_yan2
+  rotate: true
+  xy: 32, 208
+  size: 15, 17
+  orig: 15, 17
+  offset: 0, 0
+  index: -1
+fenshenguai_youtui
+  rotate: true
+  xy: 24, 186
+  size: 20, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1
+fenshenguai_zuotui
+  rotate: true
+  xy: 2, 186
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+fenshenguai_bu
+  rotate: false
+  xy: 2, 209
+  size: 11, 13
+  orig: 11, 13
+  offset: 0, 0
+  index: -1
+fenshenguai_tou
+  rotate: true
+  xy: 2, 150
+  size: 34, 45
+  orig: 34, 45
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,123 @@
+boss6.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+boss6_shouzhang
+  rotate: true
+  xy: 2, 262
+  size: 100, 65
+  orig: 100, 65
+  offset: 0, 0
+  index: -1
+boss6_shenti
+  rotate: false
+  xy: 2, 2
+  size: 117, 136
+  orig: 117, 136
+  offset: 0, 0
+  index: -1
+boss6_zuiba
+  rotate: false
+  xy: 69, 265
+  size: 51, 49
+  orig: 51, 49
+  offset: 0, 0
+  index: -1
+boss6_ganzi2
+  rotate: false
+  xy: 94, 355
+  size: 18, 23
+  orig: 18, 23
+  offset: 0, 0
+  index: -1
+boss6_shouqiu
+  rotate: true
+  xy: 61, 393
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+boss6_yunxuan1
+  rotate: false
+  xy: 33, 364
+  size: 59, 27
+  orig: 59, 27
+  offset: 0, 0
+  index: -1
+boss6_ganzi1
+  rotate: false
+  xy: 94, 380
+  size: 29, 11
+  orig: 29, 11
+  offset: 0, 0
+  index: -1
+boss6_xiaobi
+  rotate: false
+  xy: 69, 316
+  size: 49, 37
+  orig: 49, 37
+  offset: 0, 0
+  index: -1
+boss6_yunxuan4
+  rotate: false
+  xy: 66, 204
+  size: 58, 27
+  orig: 58, 27
+  offset: 0, 0
+  index: -1
+boss6_yunxuan5
+  rotate: false
+  xy: 69, 233
+  size: 55, 30
+  orig: 55, 30
+  offset: 0, 0
+  index: -1
+boss6_yunxuan2
+  rotate: true
+  xy: 2, 364
+  size: 56, 29
+  orig: 56, 29
+  offset: 0, 0
+  index: -1
+boss6_yunxuan3
+  rotate: false
+  xy: 66, 172
+  size: 58, 30
+  orig: 58, 30
+  offset: 0, 0
+  index: -1
+boss6_shenti111
+  rotate: false
+  xy: 2, 140
+  size: 62, 120
+  orig: 62, 120
+  offset: 0, 0
+  index: -1
+boss6_yan2
+  rotate: false
+  xy: 105, 393
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+boss6_yunxuan6
+  rotate: false
+  xy: 66, 140
+  size: 58, 30
+  orig: 58, 30
+  offset: 0, 0
+  index: -1
+boss6_shangbi
+  rotate: false
+  xy: 89, 393
+  size: 14, 23
+  orig: 14, 23
+  offset: 0, 0
+  index: -1
+boss6_yan
+  rotate: true
+  xy: 33, 393
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1

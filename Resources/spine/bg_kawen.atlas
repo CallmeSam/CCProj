@@ -1,0 +1,67 @@
+bg_kawen.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+show_kawen6
+  rotate: false
+  xy: 399, 2
+  size: 87, 74
+  orig: 87, 74
+  offset: 0, 0
+  index: -1
+show_kawen8
+  rotate: false
+  xy: 337, 2
+  size: 60, 111
+  orig: 60, 111
+  offset: 0, 0
+  index: -1
+show_kawen7
+  rotate: true
+  xy: 396, 130
+  size: 39, 50
+  orig: 39, 50
+  offset: 0, 0
+  index: -1
+show_kawen2
+  rotate: false
+  xy: 337, 178
+  size: 39, 17
+  orig: 39, 17
+  offset: 0, 0
+  index: -1
+show_kawen9
+  rotate: false
+  xy: 2, 2
+  size: 333, 210
+  orig: 333, 210
+  offset: 0, 0
+  index: -1
+show_kawen4
+  rotate: false
+  xy: 396, 171
+  size: 45, 41
+  orig: 45, 41
+  offset: 0, 0
+  index: -1
+show_kawen3
+  rotate: false
+  xy: 337, 115
+  size: 57, 61
+  orig: 57, 61
+  offset: 0, 0
+  index: -1
+show_kawen5
+  rotate: false
+  xy: 399, 78
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+show_kawen1
+  rotate: true
+  xy: 451, 78
+  size: 114, 42
+  orig: 114, 42
+  offset: 0, 0
+  index: -1

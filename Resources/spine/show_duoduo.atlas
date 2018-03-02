@@ -1,0 +1,67 @@
+show_duoduo.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+show_duoduo2
+  rotate: false
+  xy: 2, 284
+  size: 77, 99
+  orig: 77, 99
+  offset: 0, 0
+  index: -1
+show_duoduo1
+  rotate: true
+  xy: 81, 284
+  size: 72, 96
+  orig: 72, 96
+  offset: 0, 0
+  index: -1
+show_duoduo4
+  rotate: false
+  xy: 81, 358
+  size: 34, 81
+  orig: 34, 81
+  offset: 0, 0
+  index: -1
+show_duoduo3
+  rotate: false
+  xy: 117, 358
+  size: 60, 74
+  orig: 60, 74
+  offset: 0, 0
+  index: -1
+show_duoduo5
+  rotate: false
+  xy: 2, 385
+  size: 28, 51
+  orig: 28, 51
+  offset: 0, 0
+  index: -1
+show_duoduo6
+  rotate: true
+  xy: 32, 385
+  size: 46, 17
+  orig: 46, 17
+  offset: 0, 0
+  index: -1
+show_duoduo8
+  rotate: true
+  xy: 51, 399
+  size: 12, 25
+  orig: 12, 25
+  offset: 0, 0
+  index: -1
+show_duoduo7
+  rotate: true
+  xy: 51, 385
+  size: 12, 26
+  orig: 12, 26
+  offset: 0, 0
+  index: -1
+show_duoduo9
+  rotate: true
+  xy: 2, 2
+  size: 280, 184
+  orig: 280, 184
+  offset: 0, 0
+  index: -1

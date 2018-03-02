@@ -1,0 +1,144 @@
+xiazi.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xiazi_xunyuan2
+  rotate: true
+  xy: 112, 69
+  size: 28, 14
+  orig: 28, 14
+  offset: 0, 0
+  index: -1
+xiazi_xunyuan6
+  rotate: true
+  xy: 26, 106
+  size: 29, 15
+  orig: 29, 15
+  offset: 0, 0
+  index: -1
+jizhuxie_yan3
+  rotate: false
+  xy: 106, 124
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+jizhuxie_youjiao2
+  rotate: false
+  xy: 2, 106
+  size: 22, 29
+  orig: 22, 29
+  offset: 0, 0
+  index: -1
+jizhuxie_zuojiao1
+  rotate: true
+  xy: 85, 76
+  size: 9, 25
+  orig: 9, 25
+  offset: 0, 0
+  index: -1
+xiazi_xunyuan1
+  rotate: false
+  xy: 59, 90
+  size: 30, 13
+  orig: 30, 13
+  offset: 0, 0
+  index: -1
+xiazi_xunyuan5
+  rotate: false
+  xy: 60, 105
+  size: 27, 15
+  orig: 27, 15
+  offset: 0, 0
+  index: -1
+jizhuxie_huxu3
+  rotate: true
+  xy: 117, 99
+  size: 29, 8
+  orig: 29, 8
+  offset: 0, 0
+  index: -1
+jizhuxie_yan2
+  rotate: false
+  xy: 89, 105
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+jizhuxie_youjiao1
+  rotate: true
+  xy: 91, 87
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+jizhuxie_zuojiao2
+  rotate: true
+  xy: 86, 124
+  size: 11, 18
+  orig: 11, 18
+  offset: 0, 0
+  index: -1
+xiazi_xunyuan4
+  rotate: true
+  xy: 112, 38
+  size: 29, 14
+  orig: 29, 14
+  offset: 0, 0
+  index: -1
+jizhuxie_youjiao4
+  rotate: false
+  xy: 74, 122
+  size: 10, 13
+  orig: 10, 13
+  offset: 0, 0
+  index: -1
+jizhuxie_zuojiao3
+  rotate: false
+  xy: 120, 2
+  size: 6, 11
+  orig: 6, 11
+  offset: 0, 0
+  index: -1
+jizhuxie_tou
+  rotate: true
+  xy: 85, 38
+  size: 36, 25
+  orig: 36, 25
+  offset: 0, 0
+  index: -1
+xiazi_xunyuan3
+  rotate: true
+  xy: 43, 106
+  size: 29, 15
+  orig: 29, 15
+  offset: 0, 0
+  index: -1
+jizhuxie_shetou
+  rotate: false
+  xy: 60, 122
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+jizhuxie_ke
+  rotate: false
+  xy: 2, 2
+  size: 81, 86
+  orig: 81, 86
+  offset: 0, 0
+  index: -1
+jizhuxie_huxu1
+  rotate: false
+  xy: 2, 90
+  size: 55, 14
+  orig: 55, 14
+  offset: 0, 0
+  index: -1
+jizhuxie_youjiao3
+  rotate: false
+  xy: 85, 2
+  size: 33, 34
+  orig: 33, 34
+  offset: 0, 0
+  index: -1

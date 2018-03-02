@@ -1,0 +1,81 @@
+zhaohuanguai.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zhaohuanguai6
+  rotate: true
+  xy: 40, 113
+  size: 41, 21
+  orig: 41, 21
+  offset: 0, 0
+  index: -1
+zhaohuanguai_youshou
+  rotate: false
+  xy: 2, 177
+  size: 36, 37
+  orig: 36, 37
+  offset: 0, 0
+  index: -1
+zhaohuanguai_shenti
+  rotate: true
+  xy: 2, 2
+  size: 86, 73
+  orig: 86, 73
+  offset: 0, 0
+  index: -1
+zhaohuanguai_zuoshou
+  rotate: false
+  xy: 55, 221
+  size: 24, 27
+  orig: 26, 29
+  offset: 2, 0
+  index: -1
+zhaohuanguai1
+  rotate: true
+  xy: 61, 156
+  size: 41, 19
+  orig: 41, 19
+  offset: 0, 0
+  index: -1
+zhaohuanguai_xianglian
+  rotate: false
+  xy: 25, 221
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+zhaohuanguai4
+  rotate: true
+  xy: 40, 156
+  size: 41, 19
+  orig: 41, 19
+  offset: 0, 0
+  index: -1
+zhaohuanguai2
+  rotate: false
+  xy: 40, 199
+  size: 39, 20
+  orig: 39, 20
+  offset: 0, 0
+  index: -1
+zhaohuanguai_zhang
+  rotate: true
+  xy: 2, 90
+  size: 85, 36
+  orig: 85, 36
+  offset: 0, 0
+  index: -1
+zhaohuanguai5
+  rotate: true
+  xy: 2, 216
+  size: 38, 21
+  orig: 38, 21
+  offset: 0, 0
+  index: -1
+zhaohuanguai3
+  rotate: false
+  xy: 40, 90
+  size: 40, 21
+  orig: 40, 21
+  offset: 0, 0
+  index: -1

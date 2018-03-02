@@ -1,0 +1,137 @@
+xiaozhu.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zhu_yunxuan4
+  rotate: true
+  xy: 41, 146
+  size: 29, 14
+  orig: 29, 14
+  offset: 0, 0
+  index: -1
+zhu__yan2
+  rotate: false
+  xy: 33, 210
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+zhu_zuojiao
+  rotate: false
+  xy: 50, 190
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+zhu_youshou
+  rotate: false
+  xy: 57, 146
+  size: 5, 9
+  orig: 5, 9
+  offset: 0, 0
+  index: -1
+zhu_yunxuan5
+  rotate: true
+  xy: 33, 181
+  size: 27, 15
+  orig: 27, 15
+  offset: 0, 0
+  index: -1
+zhu__yan3
+  rotate: false
+  xy: 52, 203
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+zhu_yunxuan1
+  rotate: true
+  xy: 2, 198
+  size: 30, 13
+  orig: 30, 13
+  offset: 0, 0
+  index: -1
+zhu_zuochibang1
+  rotate: false
+  xy: 2, 230
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+zhu_youjiao
+  rotate: false
+  xy: 50, 177
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+zhu_youchibang1
+  rotate: false
+  xy: 41, 229
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+zhu_yunxuan2
+  rotate: true
+  xy: 17, 198
+  size: 28, 14
+  orig: 28, 14
+  offset: 0, 0
+  index: -1
+zhu_erduoyou
+  rotate: false
+  xy: 41, 86
+  size: 17, 27
+  orig: 17, 27
+  offset: 0, 0
+  index: -1
+zhu_zuochibang2
+  rotate: false
+  xy: 2, 134
+  size: 37, 45
+  orig: 37, 47
+  offset: 0, 2
+  index: -1
+zhu_yunxuan6
+  rotate: false
+  xy: 2, 181
+  size: 29, 15
+  orig: 29, 15
+  offset: 0, 0
+  index: -1
+zhu_youchibang2
+  rotate: false
+  xy: 2, 86
+  size: 37, 46
+  orig: 37, 46
+  offset: 0, 0
+  index: -1
+zhu_yunxuan3
+  rotate: true
+  xy: 41, 115
+  size: 29, 15
+  orig: 29, 15
+  offset: 0, 0
+  index: -1
+zhu_zuoshou
+  rotate: false
+  xy: 57, 157
+  size: 5, 6
+  orig: 5, 6
+  offset: 0, 0
+  index: -1
+zhu_shenti
+  rotate: true
+  xy: 2, 2
+  size: 82, 60
+  orig: 82, 60
+  offset: 0, 0
+  index: -1
+zhu_erduozuo
+  rotate: false
+  xy: 23, 229
+  size: 16, 23
+  orig: 16, 23
+  offset: 0, 0
+  index: -1

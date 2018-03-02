@@ -1,0 +1,151 @@
+dunpaiguai.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dunpaiguai_xy6
+  rotate: false
+  xy: 68, 45
+  size: 29, 15
+  orig: 29, 15
+  offset: 0, 0
+  index: -1
+dunpaiguai_youjiao
+  rotate: false
+  xy: 280, 31
+  size: 8, 27
+  orig: 8, 27
+  offset: 0, 0
+  index: -1
+dunpaiguai_er
+  rotate: true
+  xy: 282, 2
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+dunpaiguai_shou
+  rotate: true
+  xy: 186, 2
+  size: 33, 31
+  orig: 33, 31
+  offset: 0, 0
+  index: -1
+dunpaiguai_zuojiao
+  rotate: false
+  xy: 272, 2
+  size: 8, 27
+  orig: 8, 27
+  offset: 0, 0
+  index: -1
+dunpaiguai_xy2
+  rotate: true
+  xy: 231, 34
+  size: 28, 14
+  orig: 28, 14
+  offset: 0, 0
+  index: -1
+dunpaiguai_youjiao2
+  rotate: false
+  xy: 99, 39
+  size: 19, 22
+  orig: 19, 22
+  offset: 0, 0
+  index: -1
+dunpaiguai_zuojiao2
+  rotate: false
+  xy: 157, 39
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+dunpaiguai_xy1
+  rotate: true
+  xy: 219, 2
+  size: 30, 13
+  orig: 30, 13
+  offset: 0, 0
+  index: -1
+dunpaiguai_xy5
+  rotate: true
+  xy: 263, 31
+  size: 27, 15
+  orig: 27, 15
+  offset: 0, 0
+  index: -1
+dunpaiguai_shou2
+  rotate: false
+  xy: 251, 2
+  size: 19, 27
+  orig: 19, 27
+  offset: 0, 0
+  index: -1
+dunpaiguai_dunpai
+  rotate: true
+  xy: 96, 2
+  size: 35, 88
+  orig: 35, 88
+  offset: 0, 0
+  index: -1
+dunpaiguai_xiaba
+  rotate: false
+  xy: 120, 39
+  size: 35, 21
+  orig: 35, 21
+  offset: 0, 0
+  index: -1
+dunpaiguai_shenti
+  rotate: true
+  xy: 2, 2
+  size: 60, 64
+  orig: 60, 64
+  offset: 0, 0
+  index: -1
+dunpaiguai_xy4
+  rotate: true
+  xy: 247, 33
+  size: 29, 14
+  orig: 29, 14
+  offset: 0, 0
+  index: -1
+dunpaiguai_weibu
+  rotate: false
+  xy: 211, 37
+  size: 18, 24
+  orig: 18, 24
+  offset: 0, 0
+  index: -1
+dunpaiguai_toukui2
+  rotate: true
+  xy: 68, 2
+  size: 41, 26
+  orig: 41, 26
+  offset: 0, 0
+  index: -1
+dunpaiguai_yan2
+  rotate: false
+  xy: 282, 17
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+dunpaiguai_toukui
+  rotate: false
+  xy: 177, 39
+  size: 32, 20
+  orig: 32, 20
+  offset: 0, 0
+  index: -1
+dunpaiguai_xy3
+  rotate: true
+  xy: 234, 2
+  size: 29, 15
+  orig: 29, 15
+  offset: 0, 0
+  index: -1
+dunpaiguai_yan
+  rotate: false
+  xy: 290, 31
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1

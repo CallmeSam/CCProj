@@ -1,0 +1,158 @@
+hama.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hama_chibang
+  rotate: false
+  xy: 2, 103
+  size: 35, 24
+  orig: 35, 24
+  offset: 0, 0
+  index: -1
+hama_xy4
+  rotate: false
+  xy: 74, 114
+  size: 29, 14
+  orig: 29, 14
+  offset: 0, 0
+  index: -1
+hama_xiazui2
+  rotate: false
+  xy: 78, 17
+  size: 41, 32
+  orig: 41, 32
+  offset: 0, 0
+  index: -1
+hama_shangzui1
+  rotate: false
+  xy: 39, 116
+  size: 27, 10
+  orig: 29, 10
+  offset: 0, 0
+  index: -1
+hama_tui1
+  rotate: false
+  xy: 116, 79
+  size: 8, 17
+  orig: 8, 17
+  offset: 0, 0
+  index: -1
+hama_dan
+  rotate: false
+  xy: 91, 146
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+hama_xy5
+  rotate: true
+  xy: 106, 131
+  size: 27, 15
+  orig: 27, 15
+  offset: 0, 0
+  index: -1
+hama_yan
+  rotate: true
+  xy: 74, 146
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+hama_xy1
+  rotate: false
+  xy: 43, 65
+  size: 30, 13
+  orig: 30, 13
+  offset: 0, 0
+  index: -1
+hama_xiazui3
+  rotate: false
+  xy: 2, 65
+  size: 39, 36
+  orig: 39, 36
+  offset: 0, 0
+  index: -1
+hama_chibang2
+  rotate: true
+  xy: 30, 129
+  size: 29, 25
+  orig: 29, 25
+  offset: 0, 0
+  index: -1
+hama_tui2
+  rotate: true
+  xy: 105, 115
+  size: 14, 19
+  orig: 14, 19
+  offset: 0, 0
+  index: -1
+hama_xy6
+  rotate: true
+  xy: 57, 128
+  size: 29, 15
+  orig: 29, 15
+  offset: 0, 0
+  index: -1
+hama_xy2
+  rotate: false
+  xy: 74, 130
+  size: 28, 14
+  orig: 28, 14
+  offset: 0, 0
+  index: -1
+hama_beishi2
+  rotate: false
+  xy: 105, 98
+  size: 20, 15
+  orig: 20, 15
+  offset: 0, 0
+  index: -1
+hama_xiazui4
+  rotate: true
+  xy: 43, 80
+  size: 34, 29
+  orig: 34, 29
+  offset: 0, 0
+  index: -1
+hama_shenti
+  rotate: true
+  xy: 2, 2
+  size: 61, 74
+  orig: 63, 74
+  offset: 0, 0
+  index: -1
+hama_shangzui
+  rotate: false
+  xy: 75, 79
+  size: 39, 16
+  orig: 39, 16
+  offset: 0, 0
+  index: -1
+hama_xiazui1
+  rotate: false
+  xy: 78, 51
+  size: 41, 26
+  orig: 41, 26
+  offset: 0, 0
+  index: -1
+hama_xy3
+  rotate: false
+  xy: 74, 97
+  size: 29, 15
+  orig: 29, 15
+  offset: 0, 0
+  index: -1
+hama_xiazui5
+  rotate: false
+  xy: 78, 2
+  size: 45, 13
+  orig: 45, 13
+  offset: 0, 0
+  index: -1
+hama_beishi1
+  rotate: false
+  xy: 2, 129
+  size: 26, 29
+  orig: 26, 29
+  offset: 0, 0
+  index: -1

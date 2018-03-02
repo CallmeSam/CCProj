@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="50" height="20" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" source="caodi.tsx"/>
+ <tileset firstgid="49" source="gold.tsx"/>
+ <tileset firstgid="52" source="map1.tsx"/>
+ <tileset firstgid="1014" source="zhangai3.tsx"/>
+ <tileset firstgid="1278" source="zhongdian.tsx"/>
+ <layer name="root_2" width="50" height="20">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+3OtwoDQQxF0XXOOeec4/9/nW8xxboQCK8LY96F0wxCmihSSimllPqdcsijgGJ4K6GMCqpfupNCGhlkjRnPXWtPC2100A1vPfQxwDDB3+PVUEcDTWPGc9faM8McCyzD2wprbLD9/OtvjTDGBFNjxnPX2nPCGRdcw9sNdzzwTPD3eDvsccDRmPHc9exRSv1fL7muGDOgDwAA
+  </data>
+ </layer>
+ <layer name="root_1" width="50" height="20">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+3PR4xNYRgG4HuEsNbbRs8Ia71t9BDW6gyCKQhhp05DMAUh7PS20UNY622jh7A2OhvtsZDwh/OfSCwk502e5Lv3+++b+xUKefLkyZMnT548/0+KKfkHvfNZwEJKKaOcisgulpWsYnUw11BLJVVU/8V//rnvRzaxmS3UUU8DjZHd77KHvexLmY9yjEMc5kjG/76fAxwM+s5xnuOc4CSnOM0ZzkZ2F7gYdF7iMldS5tvc4QY3uZXxjqtc43rQ94Sn3OUe93nAQx7xOLJ7xvOg8wVNvEyZP/CRt7zjfcY7XvGaN0Ff86RQaMEn82e+8PX7D3yX0Cyya0mr5NfO1j63oW3y57kLXelIJzon2e5o5117OgR9RfSlG93pQU960Zs+kV0/+gedAxjIoJR5JKMYxnBGZLxjsHdDGBr0TWIyoxnDWMYxnglMjOymMDXonMZ0ZqTMc5lHMSXMyXjHTO9mMTvoW8oySimjnAoWsZglkd1yVgSda1jLupR5AxupoZb1Ge+o9K6K6qBvBzupo54GGtnKNrZHdrvYHXR+Awfqf8igDwAA
+  </data>
+ </layer>
+ <layer name="rock_2" width="50" height="20">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+3BMQEAAADCoPVPbQwfoAAAAIC3Ab6TizqgDwAA
+  </data>
+ </layer>
+ <layer name="rock_1" width="50" height="20">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+3P2w2CUBRE0ftB1YjQgqC2IK8WeEgLItICoPTgboHERE4yO1n/M84ppZRSSv0m33PugABHhIi8f6/a3onNMRKcccHV4I8bm1NkyFGgNPijYnONBi3u6Az+eLC5xxMDXhgN/pjYPGPBGx+sBn8otce+73Vyi6APAAA=
+  </data>
+ </layer>
+ <layer name="jewel" width="50" height="20">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+3SQQoAIAhEUe/k/e/WXigh1EH4D6Ld5EhmAIAKrh6ggIdb8XZ1zmSX7v115Gb72tAl7v2Wrezi4WQZWaaqy6vH70wb/hgATDm7NJvqoA8AAA==
+  </data>
+ </layer>
+ <objectgroup name="enemy_1">
+  <object x="942.667" y="480">
+   <ellipse/>
+  </object>
+ </objectgroup>
+</map>

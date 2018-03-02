@@ -1,0 +1,102 @@
+bg_kulei.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_kulei12
+  rotate: true
+  xy: 144, 106
+  size: 97, 100
+  orig: 97, 100
+  offset: 0, 0
+  index: -1
+bg_kulei14
+  rotate: false
+  xy: 253, 2
+  size: 115, 70
+  orig: 115, 70
+  offset: 0, 0
+  index: -1
+bg_kulei6
+  rotate: false
+  xy: 186, 205
+  size: 28, 32
+  orig: 28, 32
+  offset: 0, 0
+  index: -1
+bg_kulei13
+  rotate: false
+  xy: 2, 2
+  size: 140, 158
+  orig: 140, 158
+  offset: 0, 0
+  index: -1
+bg_kulei7
+  rotate: true
+  xy: 253, 74
+  size: 58, 84
+  orig: 58, 84
+  offset: 0, 0
+  index: -1
+bg_kulei8
+  rotate: false
+  xy: 329, 134
+  size: 38, 61
+  orig: 38, 61
+  offset: 0, 0
+  index: -1
+bg_kulei9
+  rotate: false
+  xy: 86, 162
+  size: 50, 69
+  orig: 50, 69
+  offset: 0, 0
+  index: -1
+bg_kulei10
+  rotate: true
+  xy: 2, 162
+  size: 66, 82
+  orig: 66, 82
+  offset: 0, 0
+  index: -1
+bg_kulei2
+  rotate: true
+  xy: 246, 184
+  size: 48, 76
+  orig: 48, 76
+  offset: 0, 0
+  index: -1
+bg_kulei3
+  rotate: true
+  xy: 138, 205
+  size: 32, 46
+  orig: 32, 46
+  offset: 0, 0
+  index: -1
+bg_kulei4
+  rotate: true
+  xy: 246, 134
+  size: 48, 81
+  orig: 48, 81
+  offset: 0, 0
+  index: -1
+bg_kulei11
+  rotate: false
+  xy: 144, 2
+  size: 107, 102
+  orig: 107, 102
+  offset: 0, 0
+  index: -1
+bg_kulei5
+  rotate: false
+  xy: 324, 197
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+bg_kulei1
+  rotate: true
+  xy: 339, 74
+  size: 47, 15
+  orig: 47, 15
+  offset: 0, 0
+  index: -1

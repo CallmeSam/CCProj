@@ -1,0 +1,13 @@
+[
+	{"id" : 1, "name" : "子弹", "speed" : 300, "distance" : 100000, "damage" : 10, "aliveTime":0, "pierce": false, "pic":"zidan.png", "scale" : -0.1,  "buff":[], "effect":[], "broken":[], "upgrade":{}},
+	{"id" : 2, "name" : "激光", "speed" : 200, "distance" : 1000, "damage" : 10, "aliveTime":0, "pierce": true, "pic":"zidan.png",  "scale" : -0.1, "buff":[], "effect":[], "broken":[], "upgrade":{}},
+	{"id" : 3, "name" : "黑洞", "speed" : 0, "distance" : 0, "damage" : 0, "aliveTime" : 3.0, "interval" : 1.0, "duration" : 0.5, "pierce" : true, "pic":"vortex.png", "scale" : 1.0, "buff":[], "effect" : [2, 5], "broken":[], "upgrade":{}},
+	{"id" : 4, "name" : "黑洞发射器", "speed" : 150, "distance" : 100, "damage" : 10, "pierce" : true, "pic" : "zidan.png",  "scale" : -0.4, "buff":[], "effect" : [], "broken" : [{"id" : 3, "offset" : "0, 0"}], "upgrade":{}},
+	{"id" : 5, "name" : "榴弹炮", "speed" : 0, "distance" : 0, "damage" : 5, "aliveTime":1.0, "pierce" : true, "pic" : "vortex.png", "scale" : -0.1, "buff":[], "effect" : [], "broken" : [], "upgrade":{}},
+	{"id" : 6, "name" : "榴弹炮发射器", "speed" : 150, "distance" : 200, "damage" : 10, "aliveTime":3.0, "pierce" : false, "pic" : "zidan.png", "scale" : -0.1, "buff":[], "effect" : [], "broken" : [{"id" : 5, "offset" : "0, 0"}], "upgrade":{}},
+	{"id" : 7, "name" : "震荡波", "speed" : 500, "distance" : 200, "damage" : 1, "aliveTime":0.0, "pierce" : true, "pic" : "zidan.png", "scale" : -0.1,  "buff":[], "effect" : [12], "broken" : [], "upgrade":{}},
+	{"id" : 8, "name" : "冰冻射线", "speed" : 0, "distance" : 0, "damage" : 10, "aliveTime":3.0, "interval" : 3.0, "duration" : 3.0, "pierce" : true, "pic" : "zidan.png", "scale" : -0.1,  "buff":[], "effect" : [8], "broken" : [], "upgrade":{}},
+	{"id" : 9, "name" : "干扰射线", "speed" : 0, "distance" : 0, "damage" : 10, "aliveTime":3.0, "pierce" : true, "pic" : "zidan.png", "scale" : -0.1,  "buff":[], "effect" : [9, 10], "broken" : [], "upgrade":{}},
+	{"id" : 10, "name" : "毒池", "speed" : 0, "distance" : 0, "damage" : 0, "aliveTime":3.0, "interval" : 0.2, "duration" : 0.04, "pierce" : true,  "pic" : "vortex.png", "scale" : 0.5,  "buff":[], "effect" : [11], "broken" : [], "upgrade":{}},
+	{"id" : 11, "name" : "毒池发射器", "speed" : 200, "distance" : 200, "damage" : 0, "pierce" : false,  "pic" : "zidan.png", "scale" : -0.1,  "buff":[], "effect" : [], "broken" : [{"id" : 10, "offset" : "0, 0"}], "upgrade":{}}
+]

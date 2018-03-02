@@ -1,0 +1,118 @@
+
+bg_ledi.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ledi_shenti
+  rotate: false
+  xy: 2, 248
+  size: 411, 261
+  orig: 411, 261
+  offset: 0, 0
+  index: -1
+ledi_yanbai
+  rotate: false
+  xy: 2, 49
+  size: 148, 91
+  orig: 148, 91
+  offset: 0, 0
+  index: -1
+ledi_yanpi1
+  rotate: true
+  xy: 415, 313
+  size: 120, 65
+  orig: 120, 65
+  offset: 0, 0
+  index: -1
+ledi_yanpi2
+  rotate: false
+  xy: 2, 142
+  size: 150, 104
+  orig: 150, 104
+  offset: 0, 0
+  index: -1
+ledi_youjian
+  rotate: false
+  xy: 152, 42
+  size: 69, 59
+  orig: 69, 59
+  offset: 0, 0
+  index: -1
+ledi_youjiao
+  rotate: true
+  xy: 154, 165
+  size: 81, 120
+  orig: 81, 120
+  offset: 0, 0
+  index: -1
+ledi_youjiaodi
+  rotate: false
+  xy: 54, 26
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+ledi_youshou
+  rotate: true
+  xy: 276, 184
+  size: 62, 108
+  orig: 62, 108
+  offset: 0, 0
+  index: -1
+ledi_youtui
+  rotate: true
+  xy: 154, 103
+  size: 60, 79
+  orig: 60, 79
+  offset: 0, 0
+  index: -1
+ledi_youyan
+  rotate: false
+  xy: 482, 374
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+ledi_zuitui
+  rotate: false
+  xy: 235, 110
+  size: 52, 53
+  orig: 52, 53
+  offset: 0, 0
+  index: -1
+ledi_zuojian
+  rotate: true
+  xy: 415, 248
+  size: 63, 66
+  orig: 63, 66
+  offset: 0, 0
+  index: -1
+ledi_zuojiao
+  rotate: true
+  xy: 415, 435
+  size: 74, 95
+  orig: 74, 95
+  offset: 0, 0
+  index: -1
+ledi_zuoshou
+  rotate: true
+  xy: 386, 166
+  size: 80, 87
+  orig: 80, 87
+  offset: 0, 0
+  index: -1
+ledi_zuoshouzhang
+  rotate: true
+  xy: 2, 2
+  size: 45, 50
+  orig: 45, 50
+  offset: 0, 0
+  index: -1
+ledi_zuoyan
+  rotate: true
+  xy: 482, 404
+  size: 29, 28
+  orig: 29, 28
+  offset: 0, 0
+  index: -1

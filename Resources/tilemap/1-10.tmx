@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="50" height="20" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" source="caodi.tsx"/>
+ <tileset firstgid="49" source="gold.tsx"/>
+ <tileset firstgid="52" source="map1.tsx"/>
+ <tileset firstgid="1014" source="zhangai3.tsx"/>
+ <tileset firstgid="1278" source="zhongdian.tsx"/>
+ <layer name="root_2" width="50" height="20">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+3Otw7CQBREUZtokzHG5JyTzf9/HRdp25W2WUwxVzrN0ysmCJRSSiml/qM6GmgiKnnLtxgttNGx/ISooIqauQ2RYITU80aXxsgwwdTy00UPfQzMbYU1Ntj6nejUDnsccLT8zDDHAktzu+GOB56eN7r0Qo4Cb8vPCWdccP3RLqVU+X0A/cGC8qAPAAA=
+  </data>
+ </layer>
+ <layer name="root_1" width="50" height="20">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+3PSWwPYRgH4P8I4WxXLqpIhbPW7oKqEM61tUjpKpo6dy+iuodwsysXrSWEc6u11IVaQupMUcvF9kgcdBJJL506zC95kpkv38z7exOJOHHixIkTJ06c/y/Z5Ix2iT/JZS/7yCOfAgqH8W0NtVRSRfUIdQynjHIqaKGVo9RxjHoaaKTpH/84zRnOcpkrXOQSbSPY/e+c4zwXuMVtrtJOB9e4zg1ucoe7oe6ddHGPXh7zgIc8imiPbnq4zyte84Sn9PGM57zgJf28CXV/yzsG+MJXBvnE54j2eM8HPjI2SCTG8c3zd37w8/clZwFjGM+EYGj3id4nMZmZzGI6M0gKotljijlTmUYqC5hNMnNIYS7zmM9CFgVDuy8mjXRWsZrlrGBlRHssMWcpy9jIJtawlnVksJ5MNrCZLaHuWWxlG7vZQzY57Ipoj+3m7GAnByghj3wKKKSIYvZTysFQ9zLKqeAwR6ihlkMR7VFpThXVHOcE9TTQSBPNtNDKSU6Fuv8CnDL1daAPAAA=
+  </data>
+ </layer>
+ <layer name="rock_2" width="50" height="20">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+3SyREBQRjF8cZkYJeBXQZ2GdhlYJcEgkAQCAJBIAicLP+Lqj7NqLHMqOpX9Tt0n95X9YRQUVFR+U3GmhATTHF1CXHDHYK3A064oGlWN9XPjH5zLOCGB1744EcAQYRsfseSfiusEUYEUcQQRwJJpGx+x4Z+W+yQRgZZ5JBHAUWULLhD3rzRvvf8H3BEGRVUUUMdDTTR+tIdel3lzRvt+8T/GRe00UEXPfQxwBCjN+4w21XevB32bbarvHkr9/2M2a7y5r+971ditqu8+U/s+938U1e9/FNXFZVP5gEj2VNnoA8AAA==
+  </data>
+ </layer>
+ <layer name="rock_1" width="50" height="20">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+3BMQEAAADCoPVPbQwfoAAAAIC3Ab6TizqgDwAA
+  </data>
+ </layer>
+ <layer name="jewel" width="50" height="20">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+3UMQoAIAwDwP6p//+bk1AyFAfBpOZAdEwgGGE2V74OcEHCvd/1sMOMtZNKD/Z8JxQ74D6YO3RbZtu5UtaOUlYFSn9yZ0oPM/vTApokZRmgDwAA
+  </data>
+ </layer>
+ <objectgroup name="enemy_1">
+  <object x="1248" y="478.667">
+   <ellipse/>
+  </object>
+ </objectgroup>
+</map>

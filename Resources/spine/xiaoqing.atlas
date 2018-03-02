@@ -1,0 +1,165 @@
+xiaoqing.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xiaoqing_zuoxiaotui
+  rotate: true
+  xy: 110, 36
+  size: 20, 28
+  orig: 20, 28
+  offset: 0, 0
+  index: -1
+xiaoqing_xy3
+  rotate: false
+  xy: 184, 2
+  size: 29, 15
+  orig: 29, 15
+  offset: 0, 0
+  index: -1
+xiaoqing_youdatui
+  rotate: false
+  xy: 140, 34
+  size: 8, 22
+  orig: 8, 22
+  offset: 0, 0
+  index: -1
+xiaoqing_youxiaotui2
+  rotate: false
+  xy: 207, 35
+  size: 7, 12
+  orig: 7, 12
+  offset: 0, 0
+  index: -1
+xiaoqing_yanjing
+  rotate: false
+  xy: 173, 51
+  size: 11, 5
+  orig: 11, 5
+  offset: 0, 0
+  index: -1
+xiaoqing_zuojiao
+  rotate: false
+  xy: 230, 38
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+xiaoqing_yun
+  rotate: false
+  xy: 186, 51
+  size: 9, 5
+  orig: 9, 5
+  offset: 0, 0
+  index: -1
+xiaoqing_xy6
+  rotate: false
+  xy: 153, 2
+  size: 29, 15
+  orig: 29, 15
+  offset: 0, 0
+  index: -1
+xiaoqing_youxiaotui
+  rotate: false
+  xy: 110, 2
+  size: 22, 32
+  orig: 22, 32
+  offset: 0, 0
+  index: -1
+xiaoqing_xy2
+  rotate: false
+  xy: 150, 34
+  size: 28, 14
+  orig: 28, 14
+  offset: 0, 0
+  index: -1
+xiaoqing_youpaotong
+  rotate: false
+  xy: 88, 2
+  size: 20, 36
+  orig: 20, 36
+  offset: 0, 0
+  index: -1
+xiaoqing_zuopaootng
+  rotate: false
+  xy: 134, 2
+  size: 17, 28
+  orig: 17, 28
+  offset: 0, 0
+  index: -1
+xiaoqing_xy1
+  rotate: false
+  xy: 153, 19
+  size: 30, 13
+  orig: 30, 13
+  offset: 0, 0
+  index: -1
+xiaoqing_youjiao
+  rotate: false
+  xy: 216, 38
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+xiaoqing_xy5
+  rotate: false
+  xy: 215, 2
+  size: 27, 15
+  orig: 27, 15
+  offset: 0, 0
+  index: -1
+xiaoqing_zuoshoubi
+  rotate: true
+  xy: 88, 40
+  size: 13, 20
+  orig: 13, 20
+  offset: 0, 0
+  index: -1
+xiaoqing_zuojiao2
+  rotate: false
+  xy: 150, 50
+  size: 10, 6
+  orig: 10, 6
+  offset: 0, 0
+  index: -1
+xiaoqing_boby
+  rotate: false
+  xy: 2, 2
+  size: 84, 54
+  orig: 84, 54
+  offset: 0, 0
+  index: -1
+xiaoqing_zuodatui
+  rotate: true
+  xy: 180, 35
+  size: 14, 25
+  orig: 14, 25
+  offset: 0, 0
+  index: -1
+xiaoqing_zuoxiaotuibei
+  rotate: true
+  xy: 162, 50
+  size: 6, 9
+  orig: 6, 9
+  offset: 0, 0
+  index: -1
+xiaoqing_youshou
+  rotate: true
+  xy: 216, 19
+  size: 17, 25
+  orig: 17, 25
+  offset: 0, 0
+  index: -1
+xiaoqing_xy4
+  rotate: false
+  xy: 185, 19
+  size: 29, 14
+  orig: 29, 14
+  offset: 0, 0
+  index: -1
+xiaoqing_biyan
+  rotate: false
+  xy: 197, 51
+  size: 10, 2
+  orig: 10, 2
+  offset: 0, 0
+  index: -1

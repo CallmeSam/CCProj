@@ -1,0 +1,39 @@
+bg_baojingzhang.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_baojingzhang1
+  rotate: true
+  xy: 2, 2
+  size: 133, 162
+  orig: 133, 162
+  offset: 0, 0
+  index: -1
+bg_baojingzhang2
+  rotate: false
+  xy: 166, 121
+  size: 42, 15
+  orig: 42, 15
+  offset: 0, 0
+  index: -1
+bg_baojingzhang3
+  rotate: false
+  xy: 166, 2
+  size: 155, 117
+  orig: 155, 117
+  offset: 0, 0
+  index: -1
+bg_baojingzhang4
+  rotate: true
+  xy: 323, 2
+  size: 66, 165
+  orig: 66, 165
+  offset: 0, 0
+  index: -1
+bg_baojingzhang5
+  rotate: true
+  xy: 323, 70
+  size: 67, 155
+  orig: 67, 155
+  offset: 0, 0
+  index: -1

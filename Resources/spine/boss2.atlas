@@ -1,0 +1,200 @@
+boss2.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+boss2_tui3
+  rotate: false
+  xy: 98, 417
+  size: 27, 33
+  orig: 27, 33
+  offset: 0, 0
+  index: -1
+boss23
+  rotate: false
+  xy: 36, 450
+  size: 32, 34
+  orig: 34, 46
+  offset: 0, 2
+  index: -1
+boss27
+  rotate: false
+  xy: 70, 450
+  size: 22, 20
+  orig: 34, 46
+  offset: 6, 25
+  index: -1
+boss2_xy3
+  rotate: true
+  xy: 89, 99
+  size: 69, 36
+  orig: 69, 36
+  offset: 0, 0
+  index: -1
+boss2_chilun2
+  rotate: false
+  xy: 2, 281
+  size: 55, 55
+  orig: 61, 59
+  offset: 3, 2
+  index: -1
+boss2_tui2
+  rotate: false
+  xy: 36, 394
+  size: 16, 28
+  orig: 18, 28
+  offset: 1, 0
+  index: -1
+boss2_fatiao
+  rotate: false
+  xy: 54, 418
+  size: 40, 30
+  orig: 40, 30
+  offset: 0, 0
+  index: -1
+boss22
+  rotate: true
+  xy: 98, 381
+  size: 34, 28
+  orig: 34, 46
+  offset: 0, 2
+  index: -1
+boss2_xy4
+  rotate: true
+  xy: 2, 411
+  size: 70, 32
+  orig: 70, 32
+  offset: 0, 0
+  index: -1
+boss26
+  rotate: true
+  xy: 36, 338
+  size: 26, 20
+  orig: 34, 46
+  offset: 4, 23
+  index: -1
+boss2_zui
+  rotate: false
+  xy: 2, 228
+  size: 71, 51
+  orig: 71, 53
+  offset: 0, 1
+  index: -1
+boss2_tou
+  rotate: true
+  xy: 2, 89
+  size: 69, 85
+  orig: 69, 85
+  offset: 0, 0
+  index: -1
+boss2_shenti
+  rotate: false
+  xy: 2, 2
+  size: 97, 85
+  orig: 97, 85
+  offset: 0, 0
+  index: -1
+boss21
+  rotate: true
+  xy: 36, 366
+  size: 26, 18
+  orig: 34, 46
+  offset: 4, 0
+  index: -1
+boss2_yan
+  rotate: true
+  xy: 101, 70
+  size: 27, 25
+  orig: 27, 25
+  offset: 0, 0
+  index: -1
+boss25
+  rotate: false
+  xy: 98, 345
+  size: 28, 34
+  orig: 34, 46
+  offset: 3, 7
+  index: -1
+boss2_xy1
+  rotate: true
+  xy: 2, 338
+  size: 71, 32
+  orig: 71, 32
+  offset: 0, 0
+  index: -1
+boss2_xy5
+  rotate: true
+  xy: 75, 242
+  size: 65, 36
+  orig: 65, 36
+  offset: 0, 0
+  index: -1
+boss2_yanzhu
+  rotate: false
+  xy: 36, 424
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+boss2_yanchong
+  rotate: true
+  xy: 56, 385
+  size: 31, 40
+  orig: 31, 40
+  offset: 0, 0
+  index: -1
+boss2_xy6
+  rotate: true
+  xy: 79, 170
+  size: 70, 35
+  orig: 70, 35
+  offset: 0, 0
+  index: -1
+boss24
+  rotate: false
+  xy: 94, 452
+  size: 30, 34
+  orig: 34, 46
+  offset: 2, 4
+  index: -1
+boss28
+  rotate: true
+  xy: 113, 242
+  size: 18, 12
+  orig: 34, 46
+  offset: 8, 34
+  index: -1
+boss2_xy2
+  rotate: false
+  xy: 59, 309
+  size: 67, 34
+  orig: 67, 34
+  offset: 0, 0
+  index: -1
+boss2_tui
+  rotate: false
+  xy: 101, 2
+  size: 25, 33
+  orig: 25, 33
+  offset: 0, 0
+  index: -1
+boss2_chilun
+  rotate: true
+  xy: 101, 37
+  size: 31, 25
+  orig: 31, 25
+  offset: 0, 0
+  index: -1
+boss2_chilun1
+  rotate: false
+  xy: 58, 345
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+boss2_bu
+  rotate: false
+  xy: 2, 160
+  size: 75, 66
+  orig: 75, 68
+  offset: 0, 0
+  index: -1

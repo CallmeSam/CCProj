@@ -1,0 +1,207 @@
+mili.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mili_pensheqi
+  rotate: true
+  xy: 70, 87
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+mili_shuiqian
+  rotate: false
+  xy: 2, 95
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1
+mili_xiangzi
+  rotate: false
+  xy: 2, 65
+  size: 33, 28
+  orig: 33, 28
+  offset: 0, 0
+  index: -1
+mili_zuoshou2
+  rotate: false
+  xy: 92, 116
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+mili_zuoshoubi
+  rotate: false
+  xy: 103, 55
+  size: 15, 19
+  orig: 15, 19
+  offset: 0, 0
+  index: -1
+mili_xy3
+  rotate: false
+  xy: 87, 2
+  size: 29, 15
+  orig: 29, 15
+  offset: 0, 0
+  index: -1
+mili_youshou2
+  rotate: false
+  xy: 70, 62
+  size: 16, 23
+  orig: 16, 23
+  offset: 0, 0
+  index: -1
+mili_youshou
+  rotate: true
+  xy: 83, 35
+  size: 18, 26
+  orig: 18, 26
+  offset: 0, 0
+  index: -1
+mili_zuodatui
+  rotate: false
+  xy: 88, 55
+  size: 13, 23
+  orig: 13, 23
+  offset: 0, 0
+  index: -1
+mili_yanjing1
+  rotate: false
+  xy: 103, 97
+  size: 13, 6
+  orig: 13, 6
+  offset: 0, 0
+  index: -1
+mili_youjiao
+  rotate: false
+  xy: 88, 94
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+mili_yun
+  rotate: false
+  xy: 103, 105
+  size: 12, 6
+  orig: 12, 6
+  offset: 0, 0
+  index: -1
+mili_zuoquan
+  rotate: true
+  xy: 80, 116
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+mili_zuoshou
+  rotate: false
+  xy: 103, 76
+  size: 15, 19
+  orig: 15, 19
+  offset: 0, 0
+  index: -1
+mili_xy4
+  rotate: false
+  xy: 87, 19
+  size: 29, 14
+  orig: 29, 14
+  offset: 0, 0
+  index: -1
+mili_zuojiao
+  rotate: false
+  xy: 65, 116
+  size: 13, 9
+  orig: 13, 9
+  offset: 0, 0
+  index: -1
+mili_youxiaotui2
+  rotate: false
+  xy: 111, 35
+  size: 7, 10
+  orig: 7, 10
+  offset: 0, 0
+  index: -1
+mili_xy5
+  rotate: true
+  xy: 53, 65
+  size: 27, 15
+  orig: 27, 15
+  offset: 0, 0
+  index: -1
+mili_xy1
+  rotate: true
+  xy: 50, 95
+  size: 30, 13
+  orig: 30, 13
+  offset: 0, 0
+  index: -1
+mili_youquan
+  rotate: false
+  xy: 88, 80
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+mili_shenti
+  rotate: false
+  xy: 2, 2
+  size: 62, 61
+  orig: 62, 61
+  offset: 0, 0
+  index: -1
+mili_zuoxiaotu
+  rotate: false
+  xy: 66, 2
+  size: 19, 27
+  orig: 19, 27
+  offset: 0, 0
+  index: -1
+mili_youxiaotui
+  rotate: false
+  xy: 27, 95
+  size: 21, 30
+  orig: 21, 30
+  offset: 0, 0
+  index: -1
+mili_youdatui
+  rotate: true
+  xy: 65, 106
+  size: 8, 20
+  orig: 8, 20
+  offset: 0, 0
+  index: -1
+mili_zuojiao2
+  rotate: true
+  xy: 95, 106
+  size: 8, 6
+  orig: 8, 6
+  offset: 0, 0
+  index: -1
+mili_zuoxiaotui2
+  rotate: false
+  xy: 87, 106
+  size: 6, 8
+  orig: 6, 8
+  offset: 0, 0
+  index: -1
+mili_xy6
+  rotate: true
+  xy: 66, 31
+  size: 29, 15
+  orig: 29, 15
+  offset: 0, 0
+  index: -1
+mili_biyan
+  rotate: true
+  xy: 65, 94
+  size: 10, 2
+  orig: 10, 2
+  offset: 0, 0
+  index: -1
+mili_xy2
+  rotate: true
+  xy: 37, 65
+  size: 28, 14
+  orig: 28, 14
+  offset: 0, 0
+  index: -1

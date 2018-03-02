@@ -1,0 +1,158 @@
+feixingguai1.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+feixinggua1_shenti
+  rotate: false
+  xy: 2, 2
+  size: 68, 66
+  orig: 70, 66
+  offset: 2, 0
+  index: -1
+feixinggua1_xy1
+  rotate: true
+  xy: 103, 31
+  size: 30, 13
+  orig: 30, 13
+  offset: 0, 0
+  index: -1
+feixinggua1_xy5
+  rotate: false
+  xy: 18, 110
+  size: 27, 15
+  orig: 27, 15
+  offset: 0, 0
+  index: -1
+feixinggua1_youyan
+  rotate: false
+  xy: 66, 109
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+feixinggua1_lingjian
+  rotate: true
+  xy: 2, 110
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+feixinggua1_luoxuanjib3
+  rotate: false
+  xy: 85, 119
+  size: 21, 6
+  orig: 21, 6
+  offset: 0, 0
+  index: -1
+feixinggua1_xy4
+  rotate: false
+  xy: 72, 48
+  size: 29, 14
+  orig: 29, 14
+  offset: 0, 0
+  index: -1
+feixinggua1_luoxuanjia3
+  rotate: false
+  xy: 68, 87
+  size: 32, 8
+  orig: 32, 8
+  offset: 0, 0
+  index: -1
+feixinggua1_daoguang
+  rotate: false
+  xy: 72, 2
+  size: 46, 27
+  orig: 46, 27
+  offset: 0, 0
+  index: -1
+feixinggua1_luoxuanjib2
+  rotate: false
+  xy: 42, 102
+  size: 22, 5
+  orig: 22, 5
+  offset: 0, 0
+  index: -1
+feixinggua1_wuqi
+  rotate: false
+  xy: 2, 70
+  size: 47, 30
+  orig: 47, 30
+  offset: 0, 0
+  index: -1
+feixinggua1_xy3
+  rotate: false
+  xy: 72, 31
+  size: 29, 15
+  orig: 29, 15
+  offset: 0, 0
+  index: -1
+feixinggua1_youshou
+  rotate: true
+  xy: 98, 71
+  size: 13, 23
+  orig: 13, 23
+  offset: 0, 0
+  index: -1
+feixinggua1_luoxuanjia2
+  rotate: false
+  xy: 72, 64
+  size: 32, 5
+  orig: 32, 5
+  offset: 0, 0
+  index: -1
+feixinggua1_youjiao
+  rotate: true
+  xy: 85, 104
+  size: 13, 20
+  orig: 13, 20
+  offset: 0, 0
+  index: -1
+feixinggua1_luoxuanjib1
+  rotate: false
+  xy: 68, 97
+  size: 37, 5
+  orig: 37, 5
+  offset: 0, 0
+  index: -1
+feixinggua1_wuqidaoguang
+  rotate: false
+  xy: 108, 109
+  size: 10, 15
+  orig: 10, 15
+  offset: 0, 0
+  index: -1
+feixinggua1_xy6
+  rotate: true
+  xy: 51, 70
+  size: 29, 15
+  orig: 29, 15
+  offset: 0, 0
+  index: -1
+feixinggua1_weibu
+  rotate: true
+  xy: 107, 86
+  size: 21, 14
+  orig: 21, 14
+  offset: 0, 0
+  index: -1
+feixinggua1_luoxuanjia1
+  rotate: false
+  xy: 2, 102
+  size: 38, 6
+  orig: 38, 6
+  offset: 0, 0
+  index: -1
+feixinggua1_xy2
+  rotate: false
+  xy: 68, 71
+  size: 28, 14
+  orig: 28, 14
+  offset: 0, 0
+  index: -1
+feixinggua1_zuoyan
+  rotate: false
+  xy: 47, 109
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1

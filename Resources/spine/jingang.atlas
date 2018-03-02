@@ -1,0 +1,242 @@
+jingang.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jingang_biyan
+  rotate: false
+  xy: 84, 141
+  size: 10, 2
+  orig: 10, 2
+  offset: 0, 0
+  index: -1
+jingang_xy1
+  rotate: false
+  xy: 2, 151
+  size: 30, 13
+  orig: 30, 13
+  offset: 0, 0
+  index: -1
+jingang_fireparticular0
+  rotate: true
+  xy: 119, 104
+  size: 12, 5
+  orig: 44, 9
+  offset: 32, 0
+  index: -1
+jingang_youshou
+  rotate: false
+  xy: 58, 117
+  size: 15, 26
+  orig: 15, 26
+  offset: 0, 0
+  index: -1
+jingang_youjiao2
+  rotate: false
+  xy: 114, 156
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+jingang_zuoshou
+  rotate: true
+  xy: 89, 90
+  size: 12, 21
+  orig: 12, 21
+  offset: 0, 0
+  index: -1
+jingang_youjiao
+  rotate: true
+  xy: 99, 74
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+jingang_zuoquan
+  rotate: false
+  xy: 113, 136
+  size: 8, 10
+  orig: 8, 10
+  offset: 0, 0
+  index: -1
+jingang_zuoshou3
+  rotate: false
+  xy: 102, 156
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: -1
+jingang_zuojiao
+  rotate: true
+  xy: 87, 104
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+jingang_zuojiao3
+  rotate: false
+  xy: 112, 93
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+jingang_fireparticular3
+  rotate: true
+  xy: 101, 2
+  size: 36, 9
+  orig: 44, 9
+  offset: 0, 0
+  index: -1
+jingang_xy4
+  rotate: true
+  xy: 112, 2
+  size: 29, 14
+  orig: 29, 14
+  offset: 0, 0
+  index: -1
+jingang_zuoxiaotu2
+  rotate: false
+  xy: 99, 126
+  size: 20, 8
+  orig: 20, 8
+  offset: 0, 0
+  index: -1
+jingang_shenti
+  rotate: false
+  xy: 2, 2
+  size: 97, 62
+  orig: 97, 62
+  offset: 0, 0
+  index: -1
+jingang_youdatui
+  rotate: true
+  xy: 34, 151
+  size: 13, 23
+  orig: 13, 23
+  offset: 0, 0
+  index: -1
+jingang_xy3
+  rotate: false
+  xy: 58, 83
+  size: 29, 15
+  orig: 29, 15
+  offset: 0, 0
+  index: -1
+jingang_fireparticular2
+  rotate: true
+  xy: 101, 40
+  size: 32, 9
+  orig: 44, 9
+  offset: 4, 0
+  index: -1
+jingang_youquan
+  rotate: true
+  xy: 112, 79
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+jingang_youshou2
+  rotate: false
+  xy: 83, 145
+  size: 17, 19
+  orig: 17, 19
+  offset: 0, 0
+  index: -1
+jingang_zuodatui
+  rotate: false
+  xy: 84, 117
+  size: 13, 22
+  orig: 13, 22
+  offset: 0, 0
+  index: -1
+jingang_chuizi
+  rotate: false
+  xy: 2, 66
+  size: 54, 83
+  orig: 54, 83
+  offset: 0, 0
+  index: -1
+jingang_xy6
+  rotate: false
+  xy: 58, 66
+  size: 29, 15
+  orig: 29, 15
+  offset: 0, 0
+  index: -1
+jingang_fireparticular1
+  rotate: true
+  xy: 75, 117
+  size: 26, 7
+  orig: 44, 9
+  offset: 14, 0
+  index: -1
+jingang_zuoxiaotu
+  rotate: true
+  xy: 99, 104
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+jingang_xy2
+  rotate: true
+  xy: 112, 33
+  size: 28, 14
+  orig: 28, 14
+  offset: 0, 0
+  index: -1
+jingang_youxiaotui2
+  rotate: true
+  xy: 89, 66
+  size: 22, 8
+  orig: 22, 8
+  offset: 0, 0
+  index: -1
+jingang_youjiao3
+  rotate: true
+  xy: 102, 142
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+jingang_youxiaotui
+  rotate: false
+  xy: 59, 145
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+jingang_yun
+  rotate: false
+  xy: 99, 136
+  size: 10, 4
+  orig: 10, 4
+  offset: 0, 0
+  index: -1
+jingang_zuoshou2
+  rotate: false
+  xy: 112, 63
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+jingang_yan
+  rotate: true
+  xy: 121, 118
+  size: 10, 5
+  orig: 10, 5
+  offset: 0, 0
+  index: -1
+jingang_zuojiao2
+  rotate: false
+  xy: 113, 148
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+jingang_xy5
+  rotate: false
+  xy: 58, 100
+  size: 27, 15
+  orig: 27, 15
+  offset: 0, 0
+  index: -1

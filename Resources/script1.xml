@@ -1,0 +1,13 @@
+<charge allSure = "true">
+	<obj>
+		<type>btn_sure</type>
+		<filename>base.png</filename>
+		<scale>1.0</scale>
+		<rotation>0</rotation>
+		<position>200, 200</position>
+		<action>breath</action>
+		<alpha>255</alpha>
+		<nodeType>1</nodeType>
+		<order>0</order>
+	</obj>
+</charge>

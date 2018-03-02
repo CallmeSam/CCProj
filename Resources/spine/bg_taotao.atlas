@@ -1,0 +1,123 @@
+bg_taotao.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_taotao14
+  rotate: false
+  xy: 509, 2
+  size: 78, 122
+  orig: 82, 128
+  offset: 2, 1
+  index: -1
+bg_taotao2
+  rotate: true
+  xy: 335, 138
+  size: 75, 88
+  orig: 75, 88
+  offset: 0, 0
+  index: -1
+bg_taotao9
+  rotate: true
+  xy: 2, 2
+  size: 212, 213
+  orig: 212, 213
+  offset: 0, 0
+  index: -1
+bg_taotao13
+  rotate: true
+  xy: 500, 130
+  size: 80, 120
+  orig: 82, 128
+  offset: 0, 1
+  index: -1
+bg_taotao16
+  rotate: true
+  xy: 217, 138
+  size: 76, 116
+  orig: 82, 128
+  offset: 2, 1
+  index: -1
+bg_taotao4
+  rotate: true
+  xy: 663, 135
+  size: 39, 41
+  orig: 39, 41
+  offset: 0, 0
+  index: -1
+bg_taotao15
+  rotate: false
+  xy: 345, 2
+  size: 82, 128
+  orig: 82, 128
+  offset: 0, 0
+  index: -1
+bg_taotao3
+  rotate: false
+  xy: 425, 132
+  size: 73, 81
+  orig: 73, 81
+  offset: 0, 0
+  index: -1
+bg_taotao17
+  rotate: false
+  xy: 217, 2
+  size: 126, 134
+  orig: 134, 138
+  offset: 2, 2
+  index: -1
+bg_taotao5
+  rotate: true
+  xy: 622, 2
+  size: 63, 77
+  orig: 63, 77
+  offset: 0, 0
+  index: -1
+bg_taotao1
+  rotate: true
+  xy: 589, 31
+  size: 34, 21
+  orig: 34, 21
+  offset: 0, 0
+  index: -1
+bg_taotao6
+  rotate: false
+  xy: 589, 67
+  size: 41, 54
+  orig: 41, 54
+  offset: 0, 0
+  index: -1
+bg_taotao10
+  rotate: true
+  xy: 589, 2
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+bg_taotao8
+  rotate: true
+  xy: 663, 176
+  size: 35, 34
+  orig: 35, 34
+  offset: 0, 0
+  index: -1
+bg_taotao12
+  rotate: false
+  xy: 429, 2
+  size: 78, 126
+  orig: 82, 128
+  offset: 1, 1
+  index: -1
+bg_taotao7
+  rotate: false
+  xy: 622, 135
+  size: 39, 53
+  orig: 39, 53
+  offset: 0, 0
+  index: -1
+bg_taotao11
+  rotate: false
+  xy: 632, 67
+  size: 66, 66
+  orig: 66, 66
+  offset: 0, 0
+  index: -1

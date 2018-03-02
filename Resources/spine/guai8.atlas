@@ -1,0 +1,109 @@
+guai8.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guai8_yunxuan5
+  rotate: false
+  xy: 41, 158
+  size: 33, 18
+  orig: 33, 18
+  offset: 0, 0
+  index: -1
+guai8_yanjing
+  rotate: true
+  xy: 63, 106
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+guai8_yunxuan1
+  rotate: false
+  xy: 39, 217
+  size: 35, 16
+  orig: 35, 16
+  offset: 0, 0
+  index: -1
+guai8_shou
+  rotate: false
+  xy: 2, 139
+  size: 37, 35
+  orig: 37, 35
+  offset: 0, 0
+  index: -1
+guai8_yyan2
+  rotate: false
+  xy: 45, 136
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+guai8_yunxuan6
+  rotate: false
+  xy: 2, 190
+  size: 35, 18
+  orig: 35, 18
+  offset: 0, 0
+  index: -1
+guai8_yyan
+  rotate: false
+  xy: 63, 91
+  size: 11, 13
+  orig: 11, 13
+  offset: 0, 0
+  index: -1
+guai8_shenti
+  rotate: false
+  xy: 2, 2
+  size: 72, 87
+  orig: 72, 87
+  offset: 0, 0
+  index: -1
+guai8_shou2
+  rotate: false
+  xy: 2, 91
+  size: 59, 26
+  orig: 59, 26
+  offset: 0, 0
+  index: -1
+guai8_erduo
+  rotate: false
+  xy: 45, 119
+  size: 26, 15
+  orig: 26, 15
+  offset: 0, 0
+  index: -1
+guai8_yunxuan2
+  rotate: false
+  xy: 40, 178
+  size: 34, 17
+  orig: 34, 17
+  offset: 0, 0
+  index: -1
+guai8_shou4
+  rotate: true
+  xy: 2, 119
+  size: 18, 41
+  orig: 18, 41
+  offset: 0, 0
+  index: -1
+guai8_shou3
+  rotate: false
+  xy: 2, 176
+  size: 36, 12
+  orig: 36, 12
+  offset: 0, 0
+  index: -1
+guai8_yunxuan4
+  rotate: false
+  xy: 2, 210
+  size: 35, 16
+  orig: 35, 16
+  offset: 0, 0
+  index: -1
+guai8_yunxuan3
+  rotate: false
+  xy: 39, 197
+  size: 35, 18
+  orig: 35, 18
+  offset: 0, 0
+  index: -1

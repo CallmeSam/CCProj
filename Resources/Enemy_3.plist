@@ -1,0 +1,467 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>Orochimaru/ds1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{245,713},{139,134}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{139,134}</string>
+			</dict>
+			<key>Orochimaru/ds2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{247,249},{138,134}}</string>
+				<key>offset</key>
+				<string>{1,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{139,134}</string>
+			</dict>
+			<key>Orochimaru/ds3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{924,134},{85,134}}</string>
+				<key>offset</key>
+				<string>{-1,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{139,134}</string>
+			</dict>
+			<key>Orochimaru/ds4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{924,0},{86,134}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{139,134}</string>
+			</dict>
+			<key>Orochimaru/dss2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,775},{119,199}}</string>
+				<key>offset</key>
+				<string>{3,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{126,199}</string>
+			</dict>
+			<key>Orochimaru/dss3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{119,775},{126,180}}</string>
+				<key>offset</key>
+				<string>{0,9}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{126,199}</string>
+			</dict>
+			<key>Orochimaru/dss4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{138,533},{126,180}}</string>
+				<key>offset</key>
+				<string>{0,9}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{126,199}</string>
+			</dict>
+			<key>Orochimaru/h2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{404,943},{80,97}}</string>
+				<key>offset</key>
+				<string>{3,-1}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{93,104}</string>
+			</dict>
+			<key>Orochimaru/h3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{304,943},{81,100}}</string>
+				<key>offset</key>
+				<string>{0,2}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{93,104}</string>
+			</dict>
+			<key>Orochimaru/h4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{605,932},{85,104}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{93,104}</string>
+			</dict>
+			<key>Orochimaru/h5.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{501,932},{90,104}}</string>
+				<key>offset</key>
+				<string>{1,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{93,104}</string>
+			</dict>
+			<key>Orochimaru/h6.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{368,632},{72,103}}</string>
+				<key>offset</key>
+				<string>{8,1}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{93,104}</string>
+			</dict>
+			<key>Orochimaru/h7.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{264,632},{72,104}}</string>
+				<key>offset</key>
+				<string>{6,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{93,104}</string>
+			</dict>
+			<key>Orochimaru/h8.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{200,955},{67,104}}</string>
+				<key>offset</key>
+				<string>{11,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{93,104}</string>
+			</dict>
+			<key>Orochimaru/j1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{66,974},{32,41}}</string>
+				<key>offset</key>
+				<string>{-35,-55}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{108,160}</string>
+			</dict>
+			<key>Orochimaru/j2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{125,971},{52,75}}</string>
+				<key>offset</key>
+				<string>{-28,-42}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{108,160}</string>
+			</dict>
+			<key>Orochimaru/j3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{471,632},{67,102}}</string>
+				<key>offset</key>
+				<string>{-18,-29}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{108,160}</string>
+			</dict>
+			<key>Orochimaru/j4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{247,387},{108,160}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{108,160}</string>
+			</dict>
+			<key>Orochimaru/j5.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{521,249},{107,142}}</string>
+				<key>offset</key>
+				<string>{-1,-9}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{108,160}</string>
+			</dict>
+			<key>Orochimaru/j6.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{245,852},{91,124}}</string>
+				<key>offset</key>
+				<string>{7,18}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{108,160}</string>
+			</dict>
+			<key>Orochimaru/st1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{308,249}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{308,249}</string>
+			</dict>
+			<key>Orochimaru/st2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{308,0},{308,249}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{308,249}</string>
+			</dict>
+			<key>Orochimaru/st3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{616,0},{308,249}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{308,249}</string>
+			</dict>
+			<key>Orochimaru/st4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,249},{284,247}}</string>
+				<key>offset</key>
+				<string>{-12,-1}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{308,249}</string>
+			</dict>
+			<key>Orochimaru/stx1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{264,495},{116,137}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{116,137}</string>
+			</dict>
+			<key>Orochimaru/stx2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{380,495},{116,137}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{116,137}</string>
+			</dict>
+			<key>Orochimaru/stx3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{407,365},{116,137}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{116,137}</string>
+			</dict>
+			<key>Orochimaru/txd (1).png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,974},{66,40}}</string>
+				<key>offset</key>
+				<string>{51,-2}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{242,182}</string>
+			</dict>
+			<key>Orochimaru/txd (2).png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{138,713},{73,58}}</string>
+				<key>offset</key>
+				<string>{47,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{242,182}</string>
+			</dict>
+			<key>Orochimaru/txd (3).png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{496,481},{86,84}}</string>
+				<key>offset</key>
+				<string>{47,-1}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{242,182}</string>
+			</dict>
+			<key>Orochimaru/txd (4).png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{369,852},{109,91}}</string>
+				<key>offset</key>
+				<string>{39,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{242,182}</string>
+			</dict>
+			<key>Orochimaru/txd (5).png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{379,704},{112,124}}</string>
+				<key>offset</key>
+				<string>{47,-1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{242,182}</string>
+			</dict>
+			<key>Orochimaru/txd (6).png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{491,699},{104,124}}</string>
+				<key>offset</key>
+				<string>{51,-3}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{242,182}</string>
+			</dict>
+			<key>Orochimaru/txd (7).png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{478,828},{104,130}}</string>
+				<key>offset</key>
+				<string>{59,-4}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{242,182}</string>
+			</dict>
+			<key>Orochimaru/txd (8).png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,533},{242,138}}</string>
+				<key>offset</key>
+				<string>{0,2}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{242,182}</string>
+			</dict>
+			<key>Orochimaru/xggg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{381,249},{116,140}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{116,140}</string>
+			</dict>
+			<key>Orochimaru/xz1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{98,974},{36,27}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{36,27}</string>
+			</dict>
+			<key>Orochimaru/xz2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{211,713},{33,22}}</string>
+				<key>offset</key>
+				<string>{-2,-3}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{36,27}</string>
+			</dict>
+			<key>Orochimaru/xz3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{119,955},{26,16}}</string>
+				<key>offset</key>
+				<string>{-5,-6}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{36,27}</string>
+			</dict>
+			<key>Orochimaru/xz5.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1010,0},{22,13}}</string>
+				<key>offset</key>
+				<string>{-7,-7}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{36,27}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>Enemy_3.png</string>
+			<key>realTextureFileName</key>
+			<string>Enemy_3.png</string>
+			<key>size</key>
+			<string>{1023,1024}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1023</integer>
+			<key>height</key>
+			<integer>1024</integer>
+		</dict>
+	</dict>
+</plist>

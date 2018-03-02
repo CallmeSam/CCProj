@@ -1,0 +1,200 @@
+boss3.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+boss3_xy2
+  rotate: false
+  xy: 268, 67
+  size: 56, 29
+  orig: 56, 29
+  offset: 0, 0
+  index: -1
+boss3_touding1
+  rotate: true
+  xy: 658, 76
+  size: 19, 33
+  orig: 23, 33
+  offset: 4, 0
+  index: -1
+boss3_ya2
+  rotate: false
+  xy: 491, 2
+  size: 62, 37
+  orig: 62, 39
+  offset: 0, 0
+  index: -1
+boss3_tui4
+  rotate: false
+  xy: 626, 83
+  size: 14, 13
+  orig: 16, 13
+  offset: 1, 0
+  index: -1
+boss3_tui8
+  rotate: true
+  xy: 669, 54
+  size: 20, 59
+  orig: 22, 59
+  offset: 0, 0
+  index: -1
+boss3_shou1
+  rotate: false
+  xy: 444, 2
+  size: 45, 56
+  orig: 49, 56
+  offset: 1, 0
+  index: -1
+boss3_xy3
+  rotate: false
+  xy: 548, 43
+  size: 58, 30
+  orig: 58, 30
+  offset: 0, 0
+  index: -1
+boss3_tui3
+  rotate: true
+  xy: 608, 63
+  size: 18, 48
+  orig: 20, 50
+  offset: 2, 1
+  index: -1
+boss3_tui7
+  rotate: true
+  xy: 362, 70
+  size: 25, 61
+  orig: 25, 61
+  offset: 0, 0
+  index: -1
+boss3_shou4
+  rotate: false
+  xy: 268, 2
+  size: 93, 63
+  orig: 93, 65
+  offset: 0, 0
+  index: -1
+boss3_ke
+  rotate: false
+  xy: 2, 2
+  size: 134, 94
+  orig: 134, 94
+  offset: 0, 0
+  index: -1
+boss3_xy4
+  rotate: false
+  xy: 609, 34
+  size: 58, 27
+  orig: 58, 27
+  offset: 0, 0
+  index: -1
+boss3_tou
+  rotate: false
+  xy: 363, 2
+  size: 79, 66
+  orig: 79, 68
+  offset: 0, 1
+  index: -1
+boss3_shenti
+  rotate: false
+  xy: 138, 2
+  size: 128, 91
+  orig: 128, 91
+  offset: 0, 0
+  index: -1
+boss3_yan
+  rotate: false
+  xy: 712, 76
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+boss3_tui2
+  rotate: false
+  xy: 606, 83
+  size: 18, 13
+  orig: 18, 15
+  offset: 0, 2
+  index: -1
+boss3_shou3
+  rotate: true
+  xy: 425, 70
+  size: 19, 17
+  orig: 19, 17
+  offset: 0, 0
+  index: -1
+boss3_xy1
+  rotate: false
+  xy: 669, 2
+  size: 59, 27
+  orig: 59, 27
+  offset: 0, 0
+  index: -1
+boss3_tui6
+  rotate: false
+  xy: 693, 76
+  size: 17, 15
+  orig: 19, 15
+  offset: 1, 0
+  index: -1
+boss3_xy5
+  rotate: true
+  xy: 491, 41
+  size: 55, 30
+  orig: 55, 30
+  offset: 0, 0
+  index: -1
+boss3_ya1
+  rotate: false
+  xy: 555, 2
+  size: 52, 39
+  orig: 52, 39
+  offset: 0, 0
+  index: -1
+boss3_tui1
+  rotate: true
+  xy: 548, 75
+  size: 17, 56
+  orig: 17, 56
+  offset: 0, 0
+  index: -1
+boss3_tui5
+  rotate: false
+  xy: 523, 41
+  size: 23, 53
+  orig: 23, 53
+  offset: 0, 0
+  index: -1
+boss3_touding2
+  rotate: true
+  xy: 326, 67
+  size: 28, 34
+  orig: 28, 34
+  offset: 0, 0
+  index: -1
+boss3_xy6
+  rotate: false
+  xy: 609, 2
+  size: 58, 30
+  orig: 58, 30
+  offset: 0, 0
+  index: -1
+boss3_yanzhu
+  rotate: false
+  xy: 642, 83
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+boss3_tui9
+  rotate: true
+  xy: 669, 31
+  size: 21, 59
+  orig: 25, 59
+  offset: 3, 0
+  index: -1
+boss3_shou2
+  rotate: false
+  xy: 444, 60
+  size: 38, 31
+  orig: 40, 31
+  offset: 0, 0
+  index: -1

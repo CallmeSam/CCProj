@@ -1,0 +1,137 @@
+boss5.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+boss5_yan
+  rotate: false
+  xy: 54, 433
+  size: 18, 20
+  orig: 18, 20
+  offset: 0, 0
+  index: -1
+boss5_yunxuan4
+  rotate: false
+  xy: 2, 267
+  size: 58, 27
+  orig: 58, 27
+  offset: 0, 0
+  index: -1
+boss5_shenti
+  rotate: true
+  xy: 2, 2
+  size: 99, 90
+  orig: 99, 90
+  offset: 0, 0
+  index: -1
+boss5_yunxuan5
+  rotate: true
+  xy: 62, 250
+  size: 55, 30
+  orig: 55, 30
+  offset: 0, 0
+  index: -1
+boss5_yunxuan1
+  rotate: false
+  xy: 2, 174
+  size: 59, 27
+  orig: 59, 27
+  offset: 0, 0
+  index: -1
+boss5_lunzi
+  rotate: false
+  xy: 41, 347
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+boss5_gan
+  rotate: false
+  xy: 74, 433
+  size: 17, 11
+  orig: 17, 11
+  offset: 0, 0
+  index: -1
+boss5_houqian2
+  rotate: false
+  xy: 76, 160
+  size: 11, 30
+  orig: 11, 30
+  offset: 0, 0
+  index: -1
+boss5_zuiba
+  rotate: false
+  xy: 2, 296
+  size: 56, 49
+  orig: 56, 49
+  offset: 0, 0
+  index: -1
+boss5_yunxuan6
+  rotate: false
+  xy: 2, 203
+  size: 58, 30
+  orig: 58, 30
+  offset: 0, 0
+  index: -1
+boss5_yunxuan2
+  rotate: true
+  xy: 63, 192
+  size: 56, 29
+  orig: 56, 29
+  offset: 0, 0
+  index: -1
+boss5_qianjiao7
+  rotate: false
+  xy: 76, 135
+  size: 12, 23
+  orig: 12, 23
+  offset: 0, 0
+  index: -1
+boss5_yan2
+  rotate: true
+  xy: 60, 307
+  size: 33, 32
+  orig: 33, 34
+  offset: 0, 1
+  index: -1
+boss5_qianjiao2
+  rotate: false
+  xy: 41, 433
+  size: 11, 24
+  orig: 11, 24
+  offset: 0, 0
+  index: -1
+boss5_xiangquan
+  rotate: false
+  xy: 2, 347
+  size: 37, 107
+  orig: 37, 107
+  offset: 0, 0
+  index: -1
+boss5_yunxuan3
+  rotate: false
+  xy: 2, 235
+  size: 58, 30
+  orig: 58, 30
+  offset: 0, 0
+  index: -1
+boss5_laba
+  rotate: true
+  xy: 41, 393
+  size: 38, 40
+  orig: 38, 40
+  offset: 0, 0
+  index: -1
+boss5_tou
+  rotate: false
+  xy: 2, 103
+  size: 72, 69
+  orig: 72, 69
+  offset: 0, 0
+  index: -1
+boss5_qianjiao1
+  rotate: false
+  xy: 76, 103
+  size: 13, 30
+  orig: 13, 30
+  offset: 0, 0
+  index: -1

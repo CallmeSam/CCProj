@@ -1,0 +1,88 @@
+bg_jingang.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_jingang8
+  rotate: false
+  xy: 308, 154
+  size: 50, 41
+  orig: 50, 41
+  offset: 0, 0
+  index: -1
+bg_jingang7
+  rotate: false
+  xy: 221, 139
+  size: 42, 79
+  orig: 42, 79
+  offset: 0, 0
+  index: -1
+bg_jingang9
+  rotate: true
+  xy: 334, 2
+  size: 69, 23
+  orig: 69, 23
+  offset: 0, 0
+  index: -1
+bg_jingang10
+  rotate: false
+  xy: 2, 2
+  size: 330, 135
+  orig: 330, 135
+  offset: 0, 0
+  index: -1
+bg_jinganga
+  rotate: false
+  xy: 221, 220
+  size: 37, 12
+  orig: 37, 12
+  offset: 0, 0
+  index: -1
+bg_jingang11
+  rotate: false
+  xy: 265, 139
+  size: 41, 72
+  orig: 41, 72
+  offset: 0, 0
+  index: -1
+bg_jingang12
+  rotate: true
+  xy: 2, 139
+  size: 108, 166
+  orig: 108, 166
+  offset: 0, 0
+  index: -1
+bg_jingang2
+  rotate: true
+  xy: 170, 139
+  size: 101, 49
+  orig: 101, 49
+  offset: 0, 0
+  index: -1
+bg_jingang4
+  rotate: false
+  xy: 334, 73
+  size: 25, 36
+  orig: 25, 36
+  offset: 0, 0
+  index: -1
+bg_jingang3
+  rotate: true
+  xy: 265, 213
+  size: 32, 46
+  orig: 32, 46
+  offset: 0, 0
+  index: -1
+bg_jingang6
+  rotate: false
+  xy: 334, 111
+  size: 21, 41
+  orig: 21, 41
+  offset: 0, 0
+  index: -1
+bg_jingang5
+  rotate: false
+  xy: 313, 197
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
